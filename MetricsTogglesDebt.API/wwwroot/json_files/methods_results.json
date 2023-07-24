@@ -1,0 +1,5944 @@
+[
+  {
+    "path": "square\\api\\apple_pay_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\apple_pay_api.py",
+    "name": "register_domain",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bank_accounts_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bank_accounts_api.py",
+    "name": "list_bank_accounts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bank_accounts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bank_accounts_api.py",
+    "name": "get_bank_account_by_v1_id",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bank_accounts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bank_accounts_api.py",
+    "name": "get_bank_account",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bank_accounts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "user_agent",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\base_api.py",
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "user_agent_parameters",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\base_api.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "config",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\__init__.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "http_call_back",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\base_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\http\\__init__.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "new_api_call_builder",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\base_api.py",
+    "name": "auth_managers",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\base_api.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "list_bookings",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "create_booking",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "search_availability",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "retrieve_business_booking_profile",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "list_team_member_booking_profiles",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "retrieve_team_member_booking_profile",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "retrieve_booking",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "update_booking",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\bookings_api.py",
+    "name": "cancel_booking",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "list_booking_custom_attribute_definitions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "create_booking_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "delete_booking_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "retrieve_booking_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "update_booking_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "bulk_delete_booking_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "bulk_upsert_booking_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "list_booking_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "delete_booking_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "retrieve_booking_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\booking_custom_attributes_api.py",
+    "name": "upsert_booking_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cards_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cards_api.py",
+    "name": "list_cards",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cards_api.py",
+    "name": "create_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cards_api.py",
+    "name": "retrieve_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cards_api.py",
+    "name": "disable_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cash_drawers_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cash_drawers_api.py",
+    "name": "list_cash_drawer_shifts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cash_drawers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cash_drawers_api.py",
+    "name": "retrieve_cash_drawer_shift",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cash_drawers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\cash_drawers_api.py",
+    "name": "list_cash_drawer_shift_events",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cash_drawers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "batch_delete_catalog_objects",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "batch_retrieve_catalog_objects",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "batch_upsert_catalog_objects",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "create_catalog_image",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "update_catalog_image",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "catalog_info",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "list_catalog",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "upsert_catalog_object",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "delete_catalog_object",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "retrieve_catalog_object",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "search_catalog_objects",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "search_catalog_items",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "update_item_modifier_lists",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\catalog_api.py",
+    "name": "update_item_taxes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "create_checkout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "list_payment_links",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "create_payment_link",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "delete_payment_link",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "retrieve_payment_link",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\checkout_api.py",
+    "name": "update_payment_link",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "list_customers",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "create_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "search_customers",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "delete_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "retrieve_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "update_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "create_customer_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "delete_customer_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "remove_group_from_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customers_api.py",
+    "name": "add_group_to_customer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customers_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "list_customer_custom_attribute_definitions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "create_customer_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "delete_customer_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "retrieve_customer_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "update_customer_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "bulk_upsert_customer_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "list_customer_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "delete_customer_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "retrieve_customer_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_custom_attributes_api.py",
+    "name": "upsert_customer_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "list_customer_groups",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "create_customer_group",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "delete_customer_group",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "retrieve_customer_group",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_groups_api.py",
+    "name": "update_customer_group",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_segments_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_segments_api.py",
+    "name": "list_customer_segments",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_segments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\customer_segments_api.py",
+    "name": "retrieve_customer_segment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_segments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\devices_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\devices_api.py",
+    "name": "list_device_codes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\devices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\devices_api.py",
+    "name": "create_device_code",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\devices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\devices_api.py",
+    "name": "get_device_code",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\devices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "list_disputes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "retrieve_dispute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "accept_dispute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "list_dispute_evidence",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "create_dispute_evidence_file",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "create_dispute_evidence_text",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "delete_dispute_evidence",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "retrieve_dispute_evidence",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\disputes_api.py",
+    "name": "submit_evidence",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\employees_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\employees_api.py",
+    "name": "list_employees",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\employees_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\employees_api.py",
+    "name": "retrieve_employee",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\employees_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "list_gift_cards",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "create_gift_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "retrieve_gift_card_from_gan",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "retrieve_gift_card_from_nonce",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "link_customer_to_gift_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "unlink_customer_from_gift_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_cards_api.py",
+    "name": "retrieve_gift_card",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_card_activities_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_card_activities_api.py",
+    "name": "list_gift_card_activities",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_card_activities_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\gift_card_activities_api.py",
+    "name": "create_gift_card_activity",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_card_activities_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "deprecated_retrieve_inventory_adjustment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "retrieve_inventory_adjustment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "deprecated_batch_change_inventory",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "deprecated_batch_retrieve_inventory_changes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "deprecated_batch_retrieve_inventory_counts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "batch_change_inventory",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "batch_retrieve_inventory_changes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "batch_retrieve_inventory_counts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "deprecated_retrieve_inventory_physical_count",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "retrieve_inventory_physical_count",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "retrieve_inventory_transfer",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "retrieve_inventory_count",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\inventory_api.py",
+    "name": "retrieve_inventory_changes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "list_invoices",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "create_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "search_invoices",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "delete_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "get_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "update_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "cancel_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\invoices_api.py",
+    "name": "publish_invoice",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "list_break_types",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "create_break_type",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "delete_break_type",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "get_break_type",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "update_break_type",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "list_employee_wages",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "get_employee_wage",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "create_shift",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "search_shifts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "delete_shift",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "get_shift",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "update_shift",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "list_team_member_wages",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "get_team_member_wage",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "list_workweek_configs",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\labor_api.py",
+    "name": "update_workweek_config",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\locations_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\locations_api.py",
+    "name": "list_locations",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\locations_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\locations_api.py",
+    "name": "create_location",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\locations_api.py",
+    "name": "retrieve_location",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\locations_api.py",
+    "name": "update_location",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "list_location_custom_attribute_definitions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "create_location_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "delete_location_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "retrieve_location_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "update_location_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "bulk_delete_location_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "bulk_upsert_location_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "list_location_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "delete_location_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "retrieve_location_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\location_custom_attributes_api.py",
+    "name": "upsert_location_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "create_loyalty_account",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "search_loyalty_accounts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "retrieve_loyalty_account",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "accumulate_loyalty_points",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "adjust_loyalty_points",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "search_loyalty_events",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "list_loyalty_programs",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "retrieve_loyalty_program",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "calculate_loyalty_points",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "list_loyalty_promotions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "create_loyalty_promotion",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "retrieve_loyalty_promotion",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "cancel_loyalty_promotion",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "create_loyalty_reward",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "search_loyalty_rewards",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "delete_loyalty_reward",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "retrieve_loyalty_reward",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\loyalty_api.py",
+    "name": "redeem_loyalty_reward",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchants_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchants_api.py",
+    "name": "list_merchants",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchants_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchants_api.py",
+    "name": "retrieve_merchant",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "list_merchant_custom_attribute_definitions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "create_merchant_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "delete_merchant_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "retrieve_merchant_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "update_merchant_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "bulk_delete_merchant_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "bulk_upsert_merchant_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "list_merchant_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "delete_merchant_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "retrieve_merchant_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\merchant_custom_attributes_api.py",
+    "name": "upsert_merchant_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\mobile_authorization_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\mobile_authorization_api.py",
+    "name": "create_mobile_authorization_code",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\mobile_authorization_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "create_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "batch_retrieve_orders",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "calculate_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "clone_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "search_orders",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "retrieve_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "update_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\orders_api.py",
+    "name": "pay_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\orders_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "list_order_custom_attribute_definitions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "create_order_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "delete_order_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "retrieve_order_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "update_order_custom_attribute_definition",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "bulk_delete_order_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "bulk_upsert_order_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "list_order_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "delete_order_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "retrieve_order_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\order_custom_attributes_api.py",
+    "name": "upsert_order_custom_attribute",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\o_auth_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\o_auth_api.py",
+    "name": "renew_token",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\o_auth_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\o_auth_api.py",
+    "name": "revoke_token",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\o_auth_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\o_auth_api.py",
+    "name": "obtain_token",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\o_auth_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\o_auth_api.py",
+    "name": "retrieve_token_status",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\o_auth_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "list_payments",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payments_api.py",
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "create_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py",
+      "square\\api\\payments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "cancel_payment_by_idempotency_key",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "get_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payments_api.py",
+      "square\\api\\refunds_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "update_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py",
+      "square\\api\\payments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "cancel_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payments_api.py",
+    "name": "complete_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payments_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payouts_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payouts_api.py",
+    "name": "list_payouts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payouts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payouts_api.py",
+    "name": "get_payout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payouts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\payouts_api.py",
+    "name": "list_payout_entries",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payouts_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\refunds_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\refunds_api.py",
+    "name": "list_payment_refunds",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\refunds_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\refunds_api.py",
+    "name": "refund_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\refunds_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\refunds_api.py",
+    "name": "get_payment_refund",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\refunds_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\sites_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\sites_api.py",
+    "name": "list_sites",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\sites_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\snippets_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\snippets_api.py",
+    "name": "delete_snippet",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\snippets_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\snippets_api.py",
+    "name": "retrieve_snippet",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\snippets_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\snippets_api.py",
+    "name": "upsert_snippet",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\snippets_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "create_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "search_subscriptions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "retrieve_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "update_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "delete_subscription_action",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "cancel_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "list_subscription_events",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "pause_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "resume_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\subscriptions_api.py",
+    "name": "swap_plan",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "create_team_member",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "bulk_create_team_members",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "bulk_update_team_members",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "search_team_members",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "retrieve_team_member",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "update_team_member",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "retrieve_wage_setting",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\team_api.py",
+    "name": "update_wage_setting",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\team_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "create_terminal_action",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "search_terminal_actions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "get_terminal_action",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "cancel_terminal_action",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "dismiss_terminal_action",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "create_terminal_checkout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "search_terminal_checkouts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "get_terminal_checkout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "cancel_terminal_checkout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "create_terminal_refund",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "search_terminal_refunds",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "get_terminal_refund",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\terminal_api.py",
+    "name": "cancel_terminal_refund",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\terminal_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\transactions_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\transactions_api.py",
+    "name": "list_transactions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\transactions_api.py",
+    "name": "retrieve_transaction",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\transactions_api.py",
+    "name": "capture_transaction",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\transactions_api.py",
+    "name": "void_transaction",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_list_orders",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_retrieve_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_update_order",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_list_payments",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_retrieve_payment",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_list_refunds",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_create_refund",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_list_settlements",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\v1_transactions_api.py",
+    "name": "v1_retrieve_settlement",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\v1_transactions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "bulk_create_vendors",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "bulk_retrieve_vendors",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "bulk_update_vendors",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "create_vendor",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "search_vendors",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "retrieve_vendor",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\vendors_api.py",
+    "name": "update_vendor",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "list_webhook_event_types",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "list_webhook_subscriptions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "create_webhook_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "delete_webhook_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "retrieve_webhook_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "update_webhook_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "update_webhook_subscription_signature_key",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\api\\webhook_subscriptions_api.py",
+    "name": "test_webhook_subscription",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "sdk_version",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "square_version",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "user_agent_detail",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "mobile_authorization",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "o_auth",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\__init__.py",
+      "square\\client.py",
+      "square\\http\\auth\\__init__.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "v1_transactions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "apple_pay",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "bank_accounts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "bookings",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "booking_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "cards",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\cards_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "cash_drawers",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "catalog",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\catalog_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "customers",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "customer_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "customer_groups",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "customer_segments",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "devices",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\devices_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "disputes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\disputes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "employees",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\employees_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "gift_cards",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "gift_card_activities",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "inventory",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\inventory_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "invoices",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\invoices_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "labor",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\labor_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "locations",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "location_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "checkout",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\checkout_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "transactions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "loyalty",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "merchants",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "merchant_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "orders",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\loyalty_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "order_custom_attributes",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "payments",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "payouts",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\payouts_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "refunds",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\refunds_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "sites",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "snippets",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\snippets_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "subscriptions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\o_auth_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "team",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\bookings_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "terminal",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\devices_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "vendors",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\vendors_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "webhook_subscriptions",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\api\\__init__.py",
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\client.py",
+    "name": "initialize_auth_managers",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "environment",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "custom_url",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "access_token",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\http\\auth\\o_auth_2.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "square_version",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "additional_headers",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "user_agent_detail",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "clone_with",
+    "found": true,
+    "foundPaths": [
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "create_http_client",
+    "found": true,
+    "foundPaths": [
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "get_base_uri",
+    "found": true,
+    "foundPaths": [
+      "square\\client.py",
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\configuration.py",
+    "name": "validate_user_agent",
+    "found": true,
+    "foundPaths": [
+      "square\\configuration.py"
+    ]
+  },
+  {
+    "path": "square\\exceptions\\api_exception.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\http\\api_response.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\http\\api_response.py",
+    "name": "__repr__",
+    "found": true,
+    "foundPaths": [
+      "square\\http\\api_response.py"
+    ]
+  },
+  {
+    "path": "square\\http\\api_response.py",
+    "name": "create",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\configuration.py",
+      "square\\http\\api_response.py"
+    ]
+  },
+  {
+    "path": "square\\http\\auth\\o_auth_2.py",
+    "name": "error_message",
+    "found": true,
+    "foundPaths": [
+      "square\\http\\auth\\o_auth_2.py"
+    ]
+  },
+  {
+    "path": "square\\http\\auth\\o_auth_2.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\http\\http_request.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\http\\http_response.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\utilities\\file_wrapper.py",
+    "name": "__init__",
+    "found": true,
+    "foundPaths": [
+      "square\\api\\apple_pay_api.py",
+      "square\\api\\bank_accounts_api.py",
+      "square\\api\\base_api.py",
+      "square\\api\\bookings_api.py",
+      "square\\api\\booking_custom_attributes_api.py",
+      "square\\api\\cards_api.py",
+      "square\\api\\cash_drawers_api.py",
+      "square\\api\\catalog_api.py",
+      "square\\api\\checkout_api.py",
+      "square\\api\\customers_api.py",
+      "square\\api\\customer_custom_attributes_api.py",
+      "square\\api\\customer_groups_api.py",
+      "square\\api\\customer_segments_api.py",
+      "square\\api\\devices_api.py",
+      "square\\api\\disputes_api.py",
+      "square\\api\\employees_api.py",
+      "square\\api\\gift_cards_api.py",
+      "square\\api\\gift_card_activities_api.py",
+      "square\\api\\inventory_api.py",
+      "square\\api\\invoices_api.py",
+      "square\\api\\labor_api.py",
+      "square\\api\\locations_api.py",
+      "square\\api\\location_custom_attributes_api.py",
+      "square\\api\\loyalty_api.py",
+      "square\\api\\merchants_api.py",
+      "square\\api\\merchant_custom_attributes_api.py",
+      "square\\api\\mobile_authorization_api.py",
+      "square\\api\\orders_api.py",
+      "square\\api\\order_custom_attributes_api.py",
+      "square\\api\\o_auth_api.py",
+      "square\\api\\payments_api.py",
+      "square\\api\\payouts_api.py",
+      "square\\api\\refunds_api.py",
+      "square\\api\\sites_api.py",
+      "square\\api\\snippets_api.py",
+      "square\\api\\subscriptions_api.py",
+      "square\\api\\team_api.py",
+      "square\\api\\terminal_api.py",
+      "square\\api\\transactions_api.py",
+      "square\\api\\v1_transactions_api.py",
+      "square\\api\\vendors_api.py",
+      "square\\api\\webhook_subscriptions_api.py",
+      "square\\client.py",
+      "square\\configuration.py",
+      "square\\exceptions\\api_exception.py",
+      "square\\http\\api_response.py",
+      "square\\http\\auth\\o_auth_2.py",
+      "square\\http\\http_request.py",
+      "square\\http\\http_response.py",
+      "square\\utilities\\file_wrapper.py"
+    ]
+  },
+  {
+    "path": "square\\utilities\\webhooks_helper.py",
+    "name": "is_valid_webhook_event_signature",
+    "found": true,
+    "foundPaths": [
+      "square\\utilities\\webhooks_helper.py"
+    ]
+  }
+]

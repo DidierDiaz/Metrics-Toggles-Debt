@@ -1,0 +1,10 @@
+
+.vs/*
+MetricsTogglesDebt.API/obj/*
+MetricsTogglesDebt.API/Debug/*
+MetricsTogglesDebt.API/bin/*
+MetricsTogglesDebt.Data/obj/*
+MetricsTogglesDebt.Data/Debug/*
+MetricsTogglesDebt.Data/bin/*
+MetricsTogglesDebt.Service/obj/*
+MetricsTogglesDebt.Service/bin/*
