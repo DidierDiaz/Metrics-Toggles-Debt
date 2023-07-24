@@ -1,5 +1,5 @@
 # 📊 Metrics Toggles-Debt
-Proyecto escrito en .NET Core 6
+Project in .NET Core 6
 
 
 ## Requisitos para ejecutar el API
