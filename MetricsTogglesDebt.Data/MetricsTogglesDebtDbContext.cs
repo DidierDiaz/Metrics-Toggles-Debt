@@ -9,6 +9,9 @@ namespace MetricsTogglesDebt.Data
 
         public DbSet<ClassesAndMethods> ClassesAndMethods { get; set; }
         public DbSet<LinesOfCode> LinesOfCode { get; set; }
+        public DbSet<Commit> Commit { get; set; }
+        public DbSet<Tags> Tags { get; set; }
+        public DbSet<Remotes> Remotes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

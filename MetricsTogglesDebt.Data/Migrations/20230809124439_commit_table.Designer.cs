@@ -4,6 +4,7 @@ using MetricsTogglesDebt.Data;
 using MetricsTogglesDebt.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -12,9 +13,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MetricsTogglesDebt.Data.Migrations
 {
     [DbContext(typeof(MetricsTogglesDebtDbContext))]
-    partial class MetricsTogglesDebtDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230809124439_commit_table")]
+    partial class commit_table
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -57,38 +60,47 @@ namespace MetricsTogglesDebt.Data.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<Author>("Author")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "author");
 
                     b.Property<Committer>("Committer")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "committer");
 
                     b.Property<GPG>("GPG")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "GPG");
 
                     b.Property<string>("Message")
+                        .IsRequired()
                         .HasColumnType("text")
                         .HasAnnotation("Relational:JsonPropertyName", "message");
 
                     b.Property<List<string>>("Parents")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "parents");
 
                     b.Property<List<string>>("Refs")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "refs");
 
                     b.Property<string>("Sha1")
+                        .IsRequired()
                         .HasColumnType("text")
                         .HasAnnotation("Relational:JsonPropertyName", "sha1");
 
                     b.Property<List<string>>("Tags")
+                        .IsRequired()
                         .HasColumnType("jsonb")
                         .HasAnnotation("Relational:JsonPropertyName", "tags");
 
                     b.Property<string>("Tree")
+                        .IsRequired()
                         .HasColumnType("text")
                         .HasAnnotation("Relational:JsonPropertyName", "tree");
 
@@ -126,56 +138,6 @@ namespace MetricsTogglesDebt.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("LinesOfCode");
-                });
-
-            modelBuilder.Entity("MetricsTogglesDebt.Data.Entities.Remotes", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
-
-                    b.Property<string>("SHA1")
-                        .HasColumnType("text");
-
-                    b.Property<int>("Size")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Type")
-                        .HasColumnType("text");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Remotes");
-                });
-
-            modelBuilder.Entity("MetricsTogglesDebt.Data.Entities.Tags", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("SHA1")
-                        .HasColumnType("text");
-
-                    b.Property<int>("Size")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Tag")
-                        .HasColumnType("text");
-
-                    b.Property<string>("Type")
-                        .HasColumnType("text");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Tags");
                 });
 #pragma warning restore 612, 618
         }

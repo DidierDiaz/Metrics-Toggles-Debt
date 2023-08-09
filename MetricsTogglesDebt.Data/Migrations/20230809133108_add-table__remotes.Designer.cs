@@ -4,6 +4,7 @@ using MetricsTogglesDebt.Data;
 using MetricsTogglesDebt.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -12,9 +13,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MetricsTogglesDebt.Data.Migrations
 {
     [DbContext(typeof(MetricsTogglesDebtDbContext))]
-    partial class MetricsTogglesDebtDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230809133108_add-table__remotes")]
+    partial class addtable__remotes
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

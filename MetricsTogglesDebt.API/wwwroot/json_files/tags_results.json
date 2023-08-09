@@ -1,0 +1,320 @@
+﻿[
+  {
+    "tag": "10.0.0.20210421",
+    "sha1": "29a521f2db86dae6215f4e99bb25aff1ec2ea379",
+    "type": "commit",
+    "size": 822
+  },
+  {
+    "tag": "11.0.0.20210513",
+    "sha1": "5d30eea8d8f8709fd444284926419e953f88b983",
+    "type": "commit",
+    "size": 837
+  },
+  {
+    "tag": "12.0.0.20210616",
+    "sha1": "119649c9c38159408dfd5f9e3cd5085366f8ec78",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "13.0.0.20210721",
+    "sha1": "68ae7a298b9546655b230125303e47e99efe96b2",
+    "type": "commit",
+    "size": 824
+  },
+  {
+    "tag": "13.1.0.20210818",
+    "sha1": "bc9dad37786e1878dcb48a54c6e320e1b4a5ac59",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "14.0.0.20210915",
+    "sha1": "cc1f910bfee33c65a458d63f5858075548c26899",
+    "type": "commit",
+    "size": 851
+  },
+  {
+    "tag": "14.1.0.20210915",
+    "sha1": "dc9750c6ed83637c868745dcd3ab73598cb62a5c",
+    "type": "commit",
+    "size": 851
+  },
+  {
+    "tag": "14.1.1.20210915",
+    "sha1": "64b1180ec020ae3247fc7446309fcb26a737fed0",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "15.0.0.20211020",
+    "sha1": "15193d0a28d077f8ca5e3b2f8dadf1b47d90a457",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "16.0.0.20211117",
+    "sha1": "c5b6084d86a6693bae5ae23741cb3dab32b55207",
+    "type": "commit",
+    "size": 824
+  },
+  {
+    "tag": "17.0.0.20211215",
+    "sha1": "dee4a023d618cdd993d9912d5b8fd9022fb6143a",
+    "type": "commit",
+    "size": 851
+  },
+  {
+    "tag": "17.1.0.20220120",
+    "sha1": "0846994d73918472a1f2633c9873cc944182c074",
+    "type": "commit",
+    "size": 829
+  },
+  {
+    "tag": "17.2.0.20220216",
+    "sha1": "a04a48e47570f67e0f220b1550f859cbdf6964d2",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "17.3.0.20220316",
+    "sha1": "c4050006bc371e593fddecdf07241e21940745cf",
+    "type": "commit",
+    "size": 824
+  },
+  {
+    "tag": "18.0.0.20220420",
+    "sha1": "a597f14c8b3fd6f0fad97e09bfb6ef4706588f7b",
+    "type": "commit",
+    "size": 829
+  },
+  {
+    "tag": "19.0.0.20220512",
+    "sha1": "3fd3534eb0c94f9b0d5cec04dd562bfc2cdb619a",
+    "type": "commit",
+    "size": 851
+  },
+  {
+    "tag": "19.1.0.20220616",
+    "sha1": "716a57a2363a9ab54678c2d50b3751ec775730e9",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "20.0.0.20220720",
+    "sha1": "e7bb84dc45b5eaf84ed7fefb29539bbc5ad5b728",
+    "type": "commit",
+    "size": 838
+  },
+  {
+    "tag": "20.1.0.20220720",
+    "sha1": "f69e7101f01c6e2d67ae522c384d1e4567a6fef8",
+    "type": "commit",
+    "size": 851
+  },
+  {
+    "tag": "21.0.0.20220817",
+    "sha1": "e02bc20bc76a6988fd160682b262f187fc25cc1d",
+    "type": "commit",
+    "size": 855
+  },
+  {
+    "tag": "21.1.0.20220823",
+    "sha1": "0f05337c0beb3a1bb4355aa6d8c136c97b5c922d",
+    "type": "commit",
+    "size": 824
+  },
+  {
+    "tag": "22.0.0.20220921",
+    "sha1": "7925de57ea4dbaeead407b29bdca8b1c10894640",
+    "type": "commit",
+    "size": 810
+  },
+  {
+    "tag": "23.0.0.20221019",
+    "sha1": "f195bc5c02d6aa02271d828571cea05da706cf24",
+    "type": "commit",
+    "size": 877
+  },
+  {
+    "tag": "24.0.0.20221116",
+    "sha1": "f776e5f10a12f96c65dcf2cef50daefd0576682b",
+    "type": "commit",
+    "size": 869
+  },
+  {
+    "tag": "25.0.0.20221214",
+    "sha1": "01844ede312618766159b5d0f2c6c06a2bf39aac",
+    "type": "commit",
+    "size": 856
+  },
+  {
+    "tag": "25.1.0.20230119",
+    "sha1": "67232880ce23470402a937260a8bfa765c3e3ee4",
+    "type": "commit",
+    "size": 877
+  },
+  {
+    "tag": "25.2.0.20230315",
+    "sha1": "1052ea0170a626b0a99827d4833bde52e9c86c7f",
+    "type": "commit",
+    "size": 830
+  },
+  {
+    "tag": "26.0.0.20230419",
+    "sha1": "9a7c50d1f8e9b253f2620cef2b5ca483e388a661",
+    "type": "commit",
+    "size": 856
+  },
+  {
+    "tag": "27.0.0.20230517",
+    "sha1": "cc7a5f6b7594c752b80776d4fb5934bd29063763",
+    "type": "commit",
+    "size": 811
+  },
+  {
+    "tag": "28.0.0.20230608",
+    "sha1": "5e10c4cad66b9fe850e4b5775e2e34bdb41bf712",
+    "type": "commit",
+    "size": 877
+  },
+  {
+    "tag": "28.0.1.20230608",
+    "sha1": "3f85a25cbb8fad09cfbb15208bbeca13330e23eb",
+    "type": "commit",
+    "size": 877
+  },
+  {
+    "tag": "29.0.0.20230720",
+    "sha1": "08831b219608a74892cbecfbe2f5caf4f49ec5f2",
+    "type": "commit",
+    "size": 830
+  },
+  {
+    "tag": "4.1.0.20200122",
+    "sha1": "27cf35820b096a7354d32f212885a9ee8550a992",
+    "type": "commit",
+    "size": 850
+  },
+  {
+    "tag": "5.0.0.20200226",
+    "sha1": "76d49ff5d2df4d2557159de04c42148675a92795",
+    "type": "commit",
+    "size": 834
+  },
+  {
+    "tag": "5.1.0.20200325",
+    "sha1": "33d15eefc4c135ffa5738c236898684f6c23a869",
+    "type": "commit",
+    "size": 835
+  },
+  {
+    "tag": "5.2.0.20200422",
+    "sha1": "2e920c3f3bbc0f610983eb6f992c5abde2b989dc",
+    "type": "commit",
+    "size": 793
+  },
+  {
+    "tag": "5.2.1.20200422",
+    "sha1": "747db70f1b3b6b80cb9a40e983b915e006c46dd0",
+    "type": "commit",
+    "size": 808
+  },
+  {
+    "tag": "5.2.2.20200422",
+    "sha1": "2e4811d0f6038ea5c0f79c4331cbea6d6a933d2c",
+    "type": "commit",
+    "size": 808
+  },
+  {
+    "tag": "5.3.0.20200528",
+    "sha1": "fe3b330b82314bdfe87ebd9bffe2a9dda0b53f34",
+    "type": "commit",
+    "size": 739
+  },
+  {
+    "tag": "6.0.0.20200625",
+    "sha1": "8ccb2050689f0bc9a08a50e202a50ffdbbb07e16",
+    "type": "commit",
+    "size": 835
+  },
+  {
+    "tag": "6.1.0.20200722",
+    "sha1": "fc4f4302412826e5711afc91a705ccf2d041830c",
+    "type": "commit",
+    "size": 836
+  },
+  {
+    "tag": "6.2.0.20200812",
+    "sha1": "7a9bd5b41f22969f8c75f6c4bdd23185806b269e",
+    "type": "commit",
+    "size": 835
+  },
+  {
+    "tag": "6.3.0.20200826",
+    "sha1": "61fde821ee250844721f2650a8932a7c14cdb446",
+    "type": "commit",
+    "size": 836
+  },
+  {
+    "tag": "6.4.0.20200923",
+    "sha1": "5896064b8497c42248c01e0e6b4fc38d23e8662c",
+    "type": "commit",
+    "size": 815
+  },
+  {
+    "tag": "6.5.0.20201028",
+    "sha1": "d01ed557088a73e25b3133eebf2a363076d77b2a",
+    "type": "commit",
+    "size": 848
+  },
+  {
+    "tag": "7.0.0.20201118",
+    "sha1": "4adb3d2991b7f4b5351668afdbe56edeb6575805",
+    "type": "commit",
+    "size": 868
+  },
+  {
+    "tag": "8.0.0.20201216",
+    "sha1": "b938aa9f3d30f23f2c679400ae78eb8977b1ed75",
+    "type": "commit",
+    "size": 845
+  },
+  {
+    "tag": "8.1.0.20210121",
+    "sha1": "ba74639d0ae4c141fe5de9fd9e49cb7d5bfbe2c2",
+    "type": "commit",
+    "size": 850
+  },
+  {
+    "tag": "9.0.0.20210226",
+    "sha1": "503b7ed5212348defe3b47e8125293cbefa06d88",
+    "type": "commit",
+    "size": 835
+  },
+  {
+    "tag": "9.1.0.20210317",
+    "sha1": "29a521f2db86dae6215f4e99bb25aff1ec2ea379",
+    "type": "commit",
+    "size": 822
+  },
+  {
+    "tag": "v3.20191120.0",
+    "sha1": "41ee4bab801163862482ad0a06ffabef71da1167",
+    "type": "commit",
+    "size": 846
+  },
+  {
+    "tag": "v3.3.0.20191217.0",
+    "sha1": "462a24965123d1f8f0af76aab721f177b2a88e64",
+    "type": "commit",
+    "size": 835
+  },
+  {
+    "tag": "v4.0.0.20191217.0",
+    "sha1": "72218da5467206a53cd2c2d33fc2d294badac1bc",
+    "type": "commit",
+    "size": 874
+  }
+]

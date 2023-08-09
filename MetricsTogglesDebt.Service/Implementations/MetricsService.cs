@@ -86,5 +86,59 @@ namespace MetricsTogglesDebt.Service.Implementations
                 throw;
             }
         }
+
+        public int SaveCommit(Commit model)
+        {
+            try
+            {
+                if (model is null)
+                    return 0;
+
+                _dbContext.Commit.Add(model);
+                _dbContext.SaveChanges();
+
+                return model.Id;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public int SaveTags(Tags model)
+        {
+            try
+            {
+                if (model is null)
+                    return 0;
+
+                _dbContext.Tags.Add(model);
+                _dbContext.SaveChanges();
+
+                return model.Id;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public int SaveRemotes(Remotes model)
+        {
+            try
+            {
+                if (model is null)
+                    return 0;
+
+                _dbContext.Remotes.Add(model);
+                _dbContext.SaveChanges();
+
+                return model.Id;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
 }

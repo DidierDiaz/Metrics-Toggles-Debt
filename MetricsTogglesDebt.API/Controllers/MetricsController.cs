@@ -168,5 +168,116 @@ namespace MetricsTogglesDebt.API.Controllers
 
             return responseObject;
         }
+
+        [HttpGet(nameof(ImportHistoryCommits))]
+        public JSONObjectResult<int> ImportHistoryCommits()
+        {
+            JSONObjectResult<int> responseObject = new();
+
+            try
+            {
+                string json = System.IO.File.ReadAllText(Path.Combine("wwwroot", "json_files", "history_commits_results.json"));
+                var commits = JsonSerializer.Deserialize<List<Commit>>(json, new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    PropertyNameCaseInsensitive = true
+                }) ?? throw new Exception("No se ha encontrado datos para importar");
+
+                int imported = 0;
+                foreach (var commit in commits)
+                {
+                    commit.Id = _metricsService.SaveCommit(commit);
+                    imported++;
+                }
+
+                responseObject.Data = imported;
+            }
+            catch (Exception e)
+            {
+                responseObject.Status = System.Net.HttpStatusCode.InternalServerError;
+                Response.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
+
+                responseObject.Errors = new List<string>
+                {
+                    e.Message
+                };
+            }
+
+            return responseObject;
+        }
+
+        [HttpGet(nameof(ImportTagCommits))]
+        public JSONObjectResult<int> ImportTagCommits()
+        {
+            JSONObjectResult<int> responseObject = new();
+
+            try
+            {
+                string json = System.IO.File.ReadAllText(Path.Combine("wwwroot", "json_files", "tags_results.json"));
+                var tags = JsonSerializer.Deserialize<List<Tags>>(json, new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    PropertyNameCaseInsensitive = true
+                }) ?? throw new Exception("No se ha encontrado datos para importar");
+
+                int imported = 0;
+                foreach (var tag in tags)
+                {
+                    tag.Id = _metricsService.SaveTags(tag);
+                    imported++;
+                }
+
+                responseObject.Data = imported;
+            }
+            catch (Exception e)
+            {
+                responseObject.Status = System.Net.HttpStatusCode.InternalServerError;
+                Response.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
+
+                responseObject.Errors = new List<string>
+                {
+                    e.Message
+                };
+            }
+
+            return responseObject;
+        }
+
+        [HttpGet(nameof(ImportRemoteCommits))]
+        public JSONObjectResult<int> ImportRemoteCommits()
+        {
+            JSONObjectResult<int> responseObject = new();
+
+            try
+            {
+                string json = System.IO.File.ReadAllText(Path.Combine("wwwroot", "json_files", "remotes.json"));
+                var remotes = JsonSerializer.Deserialize<List<Remotes>>(json, new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    PropertyNameCaseInsensitive = true
+                }) ?? throw new Exception("No se ha encontrado datos para importar");
+
+                int imported = 0;
+                foreach (var remote in remotes)
+                {
+                    remote.Id = _metricsService.SaveRemotes(remote);
+                    imported++;
+                }
+
+                responseObject.Data = imported;
+            }
+            catch (Exception e)
+            {
+                responseObject.Status = System.Net.HttpStatusCode.InternalServerError;
+                Response.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
+
+                responseObject.Errors = new List<string>
+                {
+                    e.Message
+                };
+            }
+
+            return responseObject;
+        }
     }
 }

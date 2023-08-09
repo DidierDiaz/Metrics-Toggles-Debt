@@ -1,0 +1,464 @@
+[
+  {
+    "name": "HEAD",
+    "sha1": "08831b219608a74892cbecfbe2f5caf4f49ec5f2",
+    "type": "commit",
+    "size": 830
+  },
+  {
+    "name": "jessdelacruzsantos/FixBrokenReadMeLinks",
+    "sha1": "cce590495e2e6c34ae9811446e1ec2f1373c0ca7",
+    "type": "commit",
+    "size": 265
+  },
+  {
+    "name": "jessdelacruzsantos/RemoveDuplicateMarkdown",
+    "sha1": "64652ca5b7e98eeca67ba5d05d2ada7ec9dd80a0",
+    "type": "commit",
+    "size": 275
+  },
+  {
+    "name": "jessdelacruzsantos/UpdateReadMe",
+    "sha1": "d282ce576c5c1c97ac4a321dc3929176a3b2db38",
+    "type": "commit",
+    "size": 264
+  },
+  {
+    "name": "jessiedlcs/AddClientMD",
+    "sha1": "665060ddc361c601b139d9d5ca6fd8b999eb424c",
+    "type": "commit",
+    "size": 273
+  },
+  {
+    "name": "jessiedlcs/AddSlackAndEmailNotifications",
+    "sha1": "158de5907c62e18ad5d063ed163eea2a1cfe3473",
+    "type": "commit",
+    "size": 268
+  },
+  {
+    "name": "jessiedlcs/FixChangelogTypo",
+    "sha1": "f1806585ca05d79c5bf9c07a1fe0c06ef4b7f682",
+    "type": "commit",
+    "size": 275
+  },
+  {
+    "name": "jessiedlcs/UpdateVersionToUseSemVer",
+    "sha1": "8c8507ca996f83ee5b75c7124ee74150c1773074",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "jff-fix-catalog-doc",
+    "sha1": "ed61f79596f841e77384b55711708a862f347ac7",
+    "type": "commit",
+    "size": 268
+  },
+  {
+    "name": "jff/update-readme",
+    "sha1": "908376ac17fa6bad8e7b005371b37e0152d159e9",
+    "type": "commit",
+    "size": 216
+  },
+  {
+    "name": "joanc/DEX-6970-automerge",
+    "sha1": "5cfe1e98c9c3639d4c50172f12d2411a416608e9",
+    "type": "commit",
+    "size": 248
+  },
+  {
+    "name": "master",
+    "sha1": "08831b219608a74892cbecfbe2f5caf4f49ec5f2",
+    "type": "commit",
+    "size": 830
+  },
+  {
+    "name": "mohsin-sq-patch-1",
+    "sha1": "49b02c6c76f5121b1b095da7e9461405682b8290",
+    "type": "commit",
+    "size": 741
+  },
+  {
+    "name": "mohsin/fix-travis-build",
+    "sha1": "0ff0a51c5a21f7cea3e40ac0bbb4fc6927214843",
+    "type": "commit",
+    "size": 263
+  },
+  {
+    "name": "mohsin/release-notes-GA",
+    "sha1": "ecf33967666c65b6ea588f966a89a4d65d2a5586",
+    "type": "commit",
+    "size": 291
+  },
+  {
+    "name": "mohsin/remove-v1-locations-test",
+    "sha1": "f7005f7302215197e5cbfbc2dc3864c61891f9d3",
+    "type": "commit",
+    "size": 245
+  },
+  {
+    "name": "release/10.0.0.20210421",
+    "sha1": "bd715ab4f89ed4cd9afbf33c46d576a6e42e8657",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/11.0.0.20210513",
+    "sha1": "d4f5ed11cc0962fd92f00b4e78a50d37da04a249",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/12.0.0.20210616",
+    "sha1": "228f7c59a7fcc74d0018c426d415495d2c761afc",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/13.0.0.20210721",
+    "sha1": "5ff7920161a839697c02f4c339d32c1476dbc075",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/13.1.0.20210818",
+    "sha1": "69fe431f36420f4b8f7c821b04de80e8510eefe9",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/14.0.0.20210915",
+    "sha1": "612b521c588306f703780e41213f34394efc58b5",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/14.1.0.20210915",
+    "sha1": "5d8159a1c0298fb25da4cdf4f6aacc4911a41467",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/14.1.1.20210915",
+    "sha1": "1512a6982b652a113a05b025fce049d55d237f02",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/15.0.0.20211020",
+    "sha1": "79ae7ce2c3c0ad52fe8dd803a7ff7a7bcb40692a",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/16.0.0.20211117",
+    "sha1": "a5be2c4df33b972a82cdb2322d1fe59865e59f9b",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/17.0.0.20211215",
+    "sha1": "0a824b7d4f30c8e94f16d7f60588293e2c321c7b",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/17.1.0.20220120",
+    "sha1": "f5786c27af37d4acd0c81f796a8be57396dc7148",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/17.2.0.20220216",
+    "sha1": "915db3a0753f25dd1d67fc5b8cfd7813bc0fe1d5",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/17.3.0.20220316",
+    "sha1": "cdb40591836b505d20f830ea75029f11942e8155",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/18.0.0.20220420",
+    "sha1": "16a0674dcf58a0e6d1b131ada8c443d2ba61698c",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/19.0.0.20220512",
+    "sha1": "1c5407f35ea156da304ea36593970baac104234f",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/19.1.0.20220616",
+    "sha1": "42ad42ebe0af3e1cb3e146910934a55b3fa572b6",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/20.0.0.20220720",
+    "sha1": "54c2b702926ff03c7dfb3635f3f80664f9fcadce",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/20.1.0.20220720",
+    "sha1": "529ecc45b647a5fe400e743b0599ffc32286c0d5",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/21.0.0.20220817",
+    "sha1": "ba66650d724a6305b64a1d2c86f2a2467accb62e",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/21.1.0.20220823",
+    "sha1": "f6ebe6b53a68fd47be7df69e94e3079d3ba59d5a",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/23.0.0.20221019",
+    "sha1": "d4d4ed1ec2eb27852d4f329e832768b78248e13c",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/24.0.0.20221116",
+    "sha1": "48fc19fb14be52cdc86243739c45d64df5c19d80",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/25.1.0.20230119",
+    "sha1": "f8bb5449c4c68f354d23190125ead7ca8e33a65e",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/25.2.0.20230315",
+    "sha1": "3f974e28ae27057029a6806a5387d5586818af40",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/28.0.0.20230608",
+    "sha1": "ade147062a45306a7d80184fece417f0612ef1ee",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/28.0.1.20230608",
+    "sha1": "b485badc5f5d8a52f25c8396aa46d418f687bfcf",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/29.0.0.20230720",
+    "sha1": "b5e96b28257759e62125df31546fb31a4c628ada",
+    "type": "commit",
+    "size": 282
+  },
+  {
+    "name": "release/3.20191120.0",
+    "sha1": "2fe1884985afeffb5d42c8e9527a975a888e8710",
+    "type": "commit",
+    "size": 259
+  },
+  {
+    "name": "release/3.3.0.20191217",
+    "sha1": "721b09252310df86f77f6762e2568a585e0f9974",
+    "type": "commit",
+    "size": 265
+  },
+  {
+    "name": "release/4.1.0.20200122",
+    "sha1": "fb50f116c19427f4d40741b32b2c1999144049c4",
+    "type": "commit",
+    "size": 740
+  },
+  {
+    "name": "release/5.0.0.20200226",
+    "sha1": "410807ffb27aa158d35549fe7b59d21dc2e2606c",
+    "type": "commit",
+    "size": 259
+  },
+  {
+    "name": "release/5.1.0.20200325",
+    "sha1": "f1e90d180af0e3caad6e18246ab931a73478d6b0",
+    "type": "commit",
+    "size": 740
+  },
+  {
+    "name": "release/5.2.0.20200422",
+    "sha1": "c65067fecb5ce301ea5a52e34686ae754f7afbb5",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/5.2.1.20200422",
+    "sha1": "36dce6b3b60e9fb9786ae7c9763fd918730a3a90",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/5.2.2.20200422",
+    "sha1": "45958bf198853642f58ac6919456f7b1faf085bb",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/5.3.0.20200528",
+    "sha1": "4974292f3840918667b882243235e05fdd99f821",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.0.0.20200625",
+    "sha1": "6c8136fdd5987bef7299a77a5dbad4c96eab5fbd",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.1.0.20200722",
+    "sha1": "c41cf4553f0d1e2ab0a68a89955916d4c72fa663",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.2.0.20200812",
+    "sha1": "698e94a27949424019c9d648c8d569caab6cb9d3",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.3.0.20200826",
+    "sha1": "5852b855ac5b3fa520b2434181098ae8980149f1",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.4.0.20200923",
+    "sha1": "96632b313bcf3384aa9609ed73a42b8ff5a64c1b",
+    "type": "commit",
+    "size": 296
+  },
+  {
+    "name": "release/6.5.0.20201028",
+    "sha1": "5fae40aee0c5df9221547f623431e47e4889f311",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release/7.0.0.20201118",
+    "sha1": "69bd9305a23357d836a8eb04c56e6f5d1b74c2f3",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release/8.0.0.20201216",
+    "sha1": "b3db810060c5a3c5da7c3e99a3c21460b2b3830b",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release/8.1.0.20210121",
+    "sha1": "b4729a493a86b0f050a5ed2bc169f7f5af7421db",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release/9.0.0.20210226",
+    "sha1": "ff90f108f17f7c24568ae3dedb1e6ebe795ed4aa",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release/9.1.0.20210317",
+    "sha1": "0951504b0c9201d533e9a3823c955030c4dd719b",
+    "type": "commit",
+    "size": 281
+  },
+  {
+    "name": "release_20190925",
+    "sha1": "4e1e522851e7f949b6fdcea214f523556ae5e616",
+    "type": "commit",
+    "size": 222
+  },
+  {
+    "name": "release_20191023",
+    "sha1": "3616e586fb8c21571eb59181a407b0e8420d12ff",
+    "type": "commit",
+    "size": 231
+  },
+  {
+    "name": "shaofu88-patch-1",
+    "sha1": "32145170da6524fe5c047374e0ff672c8d382ac0",
+    "type": "commit",
+    "size": 718
+  },
+  {
+    "name": "ssung/clarify_v1_docs",
+    "sha1": "b76ed53cad53b46c0e80c540c73c52840749979d",
+    "type": "commit",
+    "size": 230
+  },
+  {
+    "name": "ssung/fix_doc_examples",
+    "sha1": "8eee4d0eb00ee84bc361340f6eb9ba54638491cd",
+    "type": "commit",
+    "size": 231
+  },
+  {
+    "name": "ssung/update_package_name",
+    "sha1": "9da0c197b1be7d0e8cb7380d0fd3bd4c146a3c1b",
+    "type": "commit",
+    "size": 246
+  },
+  {
+    "name": "ssung/update_travis",
+    "sha1": "bc8f8dcf8c439b22bd54745ca4111f185af0b37d",
+    "type": "commit",
+    "size": 228
+  },
+  {
+    "name": "wolfgang/fix-license-date",
+    "sha1": "c3a2dd3dfca12123f93325ff89dc8df35e6f321c",
+    "type": "commit",
+    "size": 247
+  },
+  {
+    "name": "wolfgang/fix-readme-merge-conflict",
+    "sha1": "c61a82e01f9e8f5c77a890e492b3033f0d7a83a2",
+    "type": "commit",
+    "size": 274
+  },
+  {
+    "name": "wolfgang/put-v13-changelog-back",
+    "sha1": "f238259809ca001f044b2ecd557e37e77bdcd87c",
+    "type": "commit",
+    "size": 265
+  },
+  {
+    "name": "wolfgang/remove-extra-automerge-action",
+    "sha1": "f2738df2a2bd3cc6bfb04b0e172daa30cf8de65b",
+    "type": "commit",
+    "size": 284
+  },
+  {
+    "name": "wolfgang/update-table-of-contents",
+    "sha1": "dbefd74e85f28e99bc1ddf6dee6af48cafe19910",
+    "type": "commit",
+    "size": 255
+  },
+  {
+    "name": "xingfu/remove-travis-deploy",
+    "sha1": "849e8875f9353cd72ac4cf4e5529a8d7b5134384",
+    "type": "commit",
+    "size": 240
+  }
+]

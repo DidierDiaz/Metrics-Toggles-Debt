@@ -4,6 +4,7 @@ using MetricsTogglesDebt.Data;
 using MetricsTogglesDebt.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -12,9 +13,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MetricsTogglesDebt.Data.Migrations
 {
     [DbContext(typeof(MetricsTogglesDebtDbContext))]
-    partial class MetricsTogglesDebtDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230809131559_table__tags")]
+    partial class table__tags
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -126,31 +129,6 @@ namespace MetricsTogglesDebt.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("LinesOfCode");
-                });
-
-            modelBuilder.Entity("MetricsTogglesDebt.Data.Entities.Remotes", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
-
-                    b.Property<string>("SHA1")
-                        .HasColumnType("text");
-
-                    b.Property<int>("Size")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Type")
-                        .HasColumnType("text");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Remotes");
                 });
 
             modelBuilder.Entity("MetricsTogglesDebt.Data.Entities.Tags", b =>

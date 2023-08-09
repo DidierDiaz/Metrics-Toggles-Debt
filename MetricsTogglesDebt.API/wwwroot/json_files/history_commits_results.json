@@ -1,0 +1,3876 @@
+[
+  {
+    "sha1": "08831b219608a74892cbecfbe2f5caf4f49ec5f2",
+    "parents": [
+      "3f85a25cbb8fad09cfbb15208bbeca13330e23eb",
+      "b5e96b28257759e62125df31546fb31a4c628ada"
+    ],
+    "tree": "af0ee5b1a5ab09f1d3705b7cb507ac2636e00930",
+    "author": {
+      "user": { "name": "Justin Guze", "email": "jguze@squareup.com" },
+      "date": "2023-07-19T14:19:04-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-07-19T14:19:04-07:00"
+    },
+    "message": "Merge pull request #116 from square/release/29.0.0.20230720\n\nGenerated PR for Release: 29.0.0.20230720",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "refs": ["master", "origin/master", "origin/HEAD"],
+    "tags": ["29.0.0.20230720"]
+  },
+  {
+    "sha1": "b5e96b28257759e62125df31546fb31a4c628ada",
+    "parents": ["3f85a25cbb8fad09cfbb15208bbeca13330e23eb"],
+    "tree": "af0ee5b1a5ab09f1d3705b7cb507ac2636e00930",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-07-19T21:16:51+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-07-19T21:16:51+00:00"
+    },
+    "message": "Generated PR for Release: 29.0.0.20230720",
+    "refs": ["origin/release/29.0.0.20230720"]
+  },
+  {
+    "sha1": "3f85a25cbb8fad09cfbb15208bbeca13330e23eb",
+    "parents": [
+      "5e10c4cad66b9fe850e4b5775e2e34bdb41bf712",
+      "b485badc5f5d8a52f25c8396aa46d418f687bfcf"
+    ],
+    "tree": "5e05d1ccae680d0af66ebb7f221551d65548f463",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2023-06-14T14:36:04-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-06-14T14:36:04-07:00"
+    },
+    "message": "Merge pull request #115 from square/release/28.0.1.20230608\n\nGenerated PR for Release: 28.0.1.20230608",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["28.0.1.20230608"]
+  },
+  {
+    "sha1": "b485badc5f5d8a52f25c8396aa46d418f687bfcf",
+    "parents": ["5e10c4cad66b9fe850e4b5775e2e34bdb41bf712"],
+    "tree": "5e05d1ccae680d0af66ebb7f221551d65548f463",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-06-14T21:30:54+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-06-14T21:30:54+00:00"
+    },
+    "message": "Generated PR for Release: 28.0.1.20230608",
+    "refs": ["origin/release/28.0.1.20230608"]
+  },
+  {
+    "sha1": "5e10c4cad66b9fe850e4b5775e2e34bdb41bf712",
+    "parents": [
+      "cc7a5f6b7594c752b80776d4fb5934bd29063763",
+      "ade147062a45306a7d80184fece417f0612ef1ee"
+    ],
+    "tree": "45750d84649d79c3310f7be22d5070b75a9fd05b",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2023-06-07T10:33:02-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-06-07T10:33:02-07:00"
+    },
+    "message": "Merge pull request #114 from square/release/28.0.0.20230608\n\nGenerated PR for Release: 28.0.0.20230608",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["28.0.0.20230608"]
+  },
+  {
+    "sha1": "ade147062a45306a7d80184fece417f0612ef1ee",
+    "parents": ["cc7a5f6b7594c752b80776d4fb5934bd29063763"],
+    "tree": "45750d84649d79c3310f7be22d5070b75a9fd05b",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-06-07T17:29:36+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-06-07T17:29:36+00:00"
+    },
+    "message": "Generated PR for Release: 28.0.0.20230608",
+    "refs": ["origin/release/28.0.0.20230608"]
+  },
+  {
+    "sha1": "cc7a5f6b7594c752b80776d4fb5934bd29063763",
+    "parents": [
+      "9a7c50d1f8e9b253f2620cef2b5ca483e388a661",
+      "bae8598645a1e13795c894e2ee21b454d85ea0a2"
+    ],
+    "tree": "d5f61ec7e03db5a5046b13c0cf3171f23b65f816",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2023-05-16T09:11:40-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-05-16T09:11:40-07:00"
+    },
+    "message": "Merge pull request #113 from square/release/27.0.0.20230517",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["27.0.0.20230517"]
+  },
+  {
+    "sha1": "bae8598645a1e13795c894e2ee21b454d85ea0a2",
+    "parents": ["9a7c50d1f8e9b253f2620cef2b5ca483e388a661"],
+    "tree": "d5f61ec7e03db5a5046b13c0cf3171f23b65f816",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-05-16T15:42:24+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-05-16T15:42:24+00:00"
+    },
+    "message": "Generated PR for Release: 27.0.0.20230517"
+  },
+  {
+    "sha1": "9a7c50d1f8e9b253f2620cef2b5ca483e388a661",
+    "parents": [
+      "1052ea0170a626b0a99827d4833bde52e9c86c7f",
+      "16c77a0d795bddb97d830c1aadf6e77f2e7a2010"
+    ],
+    "tree": "7ad7ff0927f7983449bf94faebe939e6574eda04",
+    "author": {
+      "user": {
+        "name": "Daphne Chiu",
+        "email": "44045645+daphnechiu@users.noreply.github.com"
+      },
+      "date": "2023-04-18T12:56:33-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-04-18T12:56:33-07:00"
+    },
+    "message": "Merge pull request #111 from square/release/26.0.0.20230419\n\nGenerated PR for Release: 26.0.0.20230419",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["26.0.0.20230419"]
+  },
+  {
+    "sha1": "16c77a0d795bddb97d830c1aadf6e77f2e7a2010",
+    "parents": ["1052ea0170a626b0a99827d4833bde52e9c86c7f"],
+    "tree": "7ad7ff0927f7983449bf94faebe939e6574eda04",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-04-18T19:51:55+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-04-18T19:51:55+00:00"
+    },
+    "message": "Generated PR for Release: 26.0.0.20230419"
+  },
+  {
+    "sha1": "1052ea0170a626b0a99827d4833bde52e9c86c7f",
+    "parents": [
+      "67232880ce23470402a937260a8bfa765c3e3ee4",
+      "3f974e28ae27057029a6806a5387d5586818af40"
+    ],
+    "tree": "bf5552cab11898e89a74127ce908f5bd7d7bae4d",
+    "author": {
+      "user": { "name": "Justin Guze", "email": "jguze@squareup.com" },
+      "date": "2023-03-14T15:23:17-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-03-14T15:23:17-07:00"
+    },
+    "message": "Merge pull request #106 from square/release/25.2.0.20230315\n\nGenerated PR for Release: 25.2.0.20230315",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["25.2.0.20230315"]
+  },
+  {
+    "sha1": "3f974e28ae27057029a6806a5387d5586818af40",
+    "parents": ["67232880ce23470402a937260a8bfa765c3e3ee4"],
+    "tree": "bf5552cab11898e89a74127ce908f5bd7d7bae4d",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-03-14T22:09:42+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-03-14T22:09:42+00:00"
+    },
+    "message": "Generated PR for Release: 25.2.0.20230315",
+    "refs": ["origin/release/25.2.0.20230315"]
+  },
+  {
+    "sha1": "67232880ce23470402a937260a8bfa765c3e3ee4",
+    "parents": [
+      "01844ede312618766159b5d0f2c6c06a2bf39aac",
+      "f8bb5449c4c68f354d23190125ead7ca8e33a65e"
+    ],
+    "tree": "249ad8a0e36a1595f3060d92b5801be8ecc827df",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2023-01-18T16:44:39-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2023-01-18T16:44:39-08:00"
+    },
+    "message": "Merge pull request #104 from square/release/25.1.0.20230119\n\nGenerated PR for Release: 25.1.0.20230119",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["25.1.0.20230119"]
+  },
+  {
+    "sha1": "f8bb5449c4c68f354d23190125ead7ca8e33a65e",
+    "parents": ["01844ede312618766159b5d0f2c6c06a2bf39aac"],
+    "tree": "249ad8a0e36a1595f3060d92b5801be8ecc827df",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-01-19T00:39:21+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2023-01-19T00:39:21+00:00"
+    },
+    "message": "Generated PR for Release: 25.1.0.20230119",
+    "refs": ["origin/release/25.1.0.20230119"]
+  },
+  {
+    "sha1": "01844ede312618766159b5d0f2c6c06a2bf39aac",
+    "parents": [
+      "5690b400dec44caa3864e8cddd06044efae180ad",
+      "124b78228f8cfe98880200c017d976c887395229"
+    ],
+    "tree": "bc35f667065d3d411804fe8d1440e7acd00fa2c7",
+    "author": {
+      "user": {
+        "name": "Daphne Chiu",
+        "email": "44045645+daphnechiu@users.noreply.github.com"
+      },
+      "date": "2022-12-13T14:06:33-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-12-13T14:06:33-08:00"
+    },
+    "message": "Merge pull request #103 from square/release/25.0.0.20221214\n\nGenerated PR for Release: 25.0.0.20221214",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["25.0.0.20221214"]
+  },
+  {
+    "sha1": "124b78228f8cfe98880200c017d976c887395229",
+    "parents": ["5690b400dec44caa3864e8cddd06044efae180ad"],
+    "tree": "bc35f667065d3d411804fe8d1440e7acd00fa2c7",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-12-13T22:02:07+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-12-13T22:02:07+00:00"
+    },
+    "message": "Generated PR for Release: 25.0.0.20221214"
+  },
+  {
+    "sha1": "5690b400dec44caa3864e8cddd06044efae180ad",
+    "parents": ["f776e5f10a12f96c65dcf2cef50daefd0576682b"],
+    "tree": "ab9e3099b83803217dc1ea8fb45bf3c4faa9bdc0",
+    "author": {
+      "user": {
+        "name": "Steefan Raveenthiran",
+        "email": "97698334+steefan-square@users.noreply.github.com"
+      },
+      "date": "2022-11-16T23:05:25-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-11-16T23:05:25-05:00"
+    },
+    "message": "Update project name",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "f776e5f10a12f96c65dcf2cef50daefd0576682b",
+    "parents": [
+      "f195bc5c02d6aa02271d828571cea05da706cf24",
+      "48fc19fb14be52cdc86243739c45d64df5c19d80"
+    ],
+    "tree": "ba551bc320d80ae7861d52bc66f5b1535ea6f8d2",
+    "author": {
+      "user": {
+        "name": "Steefan Raveenthiran",
+        "email": "97698334+steefan-square@users.noreply.github.com"
+      },
+      "date": "2022-11-16T13:33:50-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-11-16T13:33:50-05:00"
+    },
+    "message": "Merge pull request #101 from square/release/24.0.0.20221116\n\nGenerated PR for Release: 24.0.0.20221116",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["24.0.0.20221116"]
+  },
+  {
+    "sha1": "48fc19fb14be52cdc86243739c45d64df5c19d80",
+    "parents": ["f195bc5c02d6aa02271d828571cea05da706cf24"],
+    "tree": "ba551bc320d80ae7861d52bc66f5b1535ea6f8d2",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-11-16T18:29:58+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-11-16T18:29:58+00:00"
+    },
+    "message": "Generated PR for Release: 24.0.0.20221116",
+    "refs": ["origin/release/24.0.0.20221116"]
+  },
+  {
+    "sha1": "f195bc5c02d6aa02271d828571cea05da706cf24",
+    "parents": [
+      "7925de57ea4dbaeead407b29bdca8b1c10894640",
+      "d4d4ed1ec2eb27852d4f329e832768b78248e13c"
+    ],
+    "tree": "26eeb5d11d2b70da91ffd7bdc0c3fc3fcc32f868",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2022-10-19T09:32:00-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-10-19T09:32:00-07:00"
+    },
+    "message": "Merge pull request #100 from square/release/23.0.0.20221019\n\nGenerated PR for Release: 23.0.0.20221019",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["23.0.0.20221019"]
+  },
+  {
+    "sha1": "d4d4ed1ec2eb27852d4f329e832768b78248e13c",
+    "parents": ["7925de57ea4dbaeead407b29bdca8b1c10894640"],
+    "tree": "26eeb5d11d2b70da91ffd7bdc0c3fc3fcc32f868",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-10-19T16:27:15+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-10-19T16:27:15+00:00"
+    },
+    "message": "Generated PR for Release: 23.0.0.20221019",
+    "refs": ["origin/release/23.0.0.20221019"]
+  },
+  {
+    "sha1": "7925de57ea4dbaeead407b29bdca8b1c10894640",
+    "parents": [
+      "0f05337c0beb3a1bb4355aa6d8c136c97b5c922d",
+      "243f83b2f6f730d67433494acc69d6a9ead11421"
+    ],
+    "tree": "2a384f08dbcbc7c6039319943b1df293ae558502",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2022-09-21T09:49:21-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-09-21T09:49:21-07:00"
+    },
+    "message": "Merge pull request #99 from square/release/22.0.0.20220921",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["22.0.0.20220921"]
+  },
+  {
+    "sha1": "243f83b2f6f730d67433494acc69d6a9ead11421",
+    "parents": ["0f05337c0beb3a1bb4355aa6d8c136c97b5c922d"],
+    "tree": "2a384f08dbcbc7c6039319943b1df293ae558502",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-09-21T16:44:21+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-09-21T16:44:21+00:00"
+    },
+    "message": "Generated PR for Release: 22.0.0.20220921"
+  },
+  {
+    "sha1": "0f05337c0beb3a1bb4355aa6d8c136c97b5c922d",
+    "parents": [
+      "e02bc20bc76a6988fd160682b262f187fc25cc1d",
+      "f6ebe6b53a68fd47be7df69e94e3079d3ba59d5a"
+    ],
+    "tree": "0436a6ee4e24387cc80b52c4509823feaaaf411e",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2022-08-22T15:26:44-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-08-22T15:26:44-07:00"
+    },
+    "message": "Merge pull request #98 from square/release/21.1.0.20220823\n\nGenerated PR for Release: 21.1.0.20220823",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["21.1.0.20220823"]
+  },
+  {
+    "sha1": "f6ebe6b53a68fd47be7df69e94e3079d3ba59d5a",
+    "parents": ["e02bc20bc76a6988fd160682b262f187fc25cc1d"],
+    "tree": "0436a6ee4e24387cc80b52c4509823feaaaf411e",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-08-22T22:21:27+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-08-22T22:21:27+00:00"
+    },
+    "message": "Generated PR for Release: 21.1.0.20220823",
+    "refs": ["origin/release/21.1.0.20220823"]
+  },
+  {
+    "sha1": "e02bc20bc76a6988fd160682b262f187fc25cc1d",
+    "parents": [
+      "f69e7101f01c6e2d67ae522c384d1e4567a6fef8",
+      "ba66650d724a6305b64a1d2c86f2a2467accb62e"
+    ],
+    "tree": "8b77a82c4e30f11570da7c6b4136a7ae45fef338",
+    "author": {
+      "user": {
+        "name": "Daphne Chiu",
+        "email": "44045645+daphnechiu@users.noreply.github.com"
+      },
+      "date": "2022-08-16T14:11:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-08-16T14:11:57-07:00"
+    },
+    "message": "Merge pull request #97 from square/release/21.0.0.20220817\n\nGenerated PR for Release: 21.0.0.20220817",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["21.0.0.20220817"]
+  },
+  {
+    "sha1": "ba66650d724a6305b64a1d2c86f2a2467accb62e",
+    "parents": ["f69e7101f01c6e2d67ae522c384d1e4567a6fef8"],
+    "tree": "8b77a82c4e30f11570da7c6b4136a7ae45fef338",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-08-16T21:08:33+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-08-16T21:08:33+00:00"
+    },
+    "message": "Generated PR for Release: 21.0.0.20220817",
+    "refs": ["origin/release/21.0.0.20220817"]
+  },
+  {
+    "sha1": "f69e7101f01c6e2d67ae522c384d1e4567a6fef8",
+    "parents": [
+      "e7bb84dc45b5eaf84ed7fefb29539bbc5ad5b728",
+      "529ecc45b647a5fe400e743b0599ffc32286c0d5"
+    ],
+    "tree": "453956db058de9aa8b4b3d97af8ba6b06716242e",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2022-07-20T17:46:50-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-07-20T17:46:50-07:00"
+    },
+    "message": "Merge pull request #96 from square/release/20.1.0.20220720\n\nGenerated PR for Release: 20.1.0.20220720",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["20.1.0.20220720"]
+  },
+  {
+    "sha1": "529ecc45b647a5fe400e743b0599ffc32286c0d5",
+    "parents": ["e7bb84dc45b5eaf84ed7fefb29539bbc5ad5b728"],
+    "tree": "453956db058de9aa8b4b3d97af8ba6b06716242e",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-07-21T00:42:12+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-07-21T00:42:12+00:00"
+    },
+    "message": "Generated PR for Release: 20.1.0.20220720",
+    "refs": ["origin/release/20.1.0.20220720"]
+  },
+  {
+    "sha1": "e7bb84dc45b5eaf84ed7fefb29539bbc5ad5b728",
+    "parents": [
+      "716a57a2363a9ab54678c2d50b3751ec775730e9",
+      "54c2b702926ff03c7dfb3635f3f80664f9fcadce"
+    ],
+    "tree": "347b07bc32eec2ebb302513ec8df8df8bd1b8ec8",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-07-20T12:07:26-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-07-20T12:07:26-05:00"
+    },
+    "message": "Merge pull request #95 from square/release/20.0.0.20220720\n\nGenerated PR for Release: 20.0.0.20220720",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["20.0.0.20220720"]
+  },
+  {
+    "sha1": "54c2b702926ff03c7dfb3635f3f80664f9fcadce",
+    "parents": ["716a57a2363a9ab54678c2d50b3751ec775730e9"],
+    "tree": "347b07bc32eec2ebb302513ec8df8df8bd1b8ec8",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-07-20T17:04:52+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-07-20T17:04:52+00:00"
+    },
+    "message": "Generated PR for Release: 20.0.0.20220720",
+    "refs": ["origin/release/20.0.0.20220720"]
+  },
+  {
+    "sha1": "716a57a2363a9ab54678c2d50b3751ec775730e9",
+    "parents": [
+      "3fd3534eb0c94f9b0d5cec04dd562bfc2cdb619a",
+      "42ad42ebe0af3e1cb3e146910934a55b3fa572b6"
+    ],
+    "tree": "badf193f4a9dfc6f5d8d3f0f9a14ecb14312d2f3",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-06-16T10:19:51-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-06-16T10:19:51-05:00"
+    },
+    "message": "Merge pull request #94 from square/release/19.1.0.20220616\n\nGenerated PR for Release: 19.1.0.20220616",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["19.1.0.20220616"]
+  },
+  {
+    "sha1": "42ad42ebe0af3e1cb3e146910934a55b3fa572b6",
+    "parents": ["3fd3534eb0c94f9b0d5cec04dd562bfc2cdb619a"],
+    "tree": "badf193f4a9dfc6f5d8d3f0f9a14ecb14312d2f3",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-06-16T15:18:45+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-06-16T15:18:45+00:00"
+    },
+    "message": "Generated PR for Release: 19.1.0.20220616",
+    "refs": ["origin/release/19.1.0.20220616"]
+  },
+  {
+    "sha1": "1c5407f35ea156da304ea36593970baac104234f",
+    "parents": ["3fd3534eb0c94f9b0d5cec04dd562bfc2cdb619a"],
+    "tree": "211da61a8ac11063dc53196bb2978107622b20aa",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-05-25T17:32:58+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-05-25T17:32:58+00:00"
+    },
+    "message": "Generated PR for Release: 19.0.0.20220512",
+    "refs": ["origin/release/19.0.0.20220512"]
+  },
+  {
+    "sha1": "3fd3534eb0c94f9b0d5cec04dd562bfc2cdb619a",
+    "parents": [
+      "036e2d5ea2957b2163bc405f843d8959bd58d2f2",
+      "c61a82e01f9e8f5c77a890e492b3033f0d7a83a2"
+    ],
+    "tree": "428b36c660508d0515f1aa54a0acf4f59a7ea913",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-05-23T10:32:30-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-05-23T10:32:30-07:00"
+    },
+    "message": "Merge pull request #92 from square/wolfgang/fix-readme-merge-conflict\n\nRemove incorrect merge conflict from readme",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["19.0.0.20220512"]
+  },
+  {
+    "sha1": "c61a82e01f9e8f5c77a890e492b3033f0d7a83a2",
+    "parents": ["036e2d5ea2957b2163bc405f843d8959bd58d2f2"],
+    "tree": "428b36c660508d0515f1aa54a0acf4f59a7ea913",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-05-23T12:26:26-05:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-05-23T12:26:26-05:00"
+    },
+    "message": "Remove incorrect merge conflict from readme",
+    "refs": ["origin/wolfgang/fix-readme-merge-conflict"]
+  },
+  {
+    "sha1": "036e2d5ea2957b2163bc405f843d8959bd58d2f2",
+    "parents": [
+      "fe2dffa1d53dc4fe56fcb009465739293cf0016b",
+      "b779c372ff772522ec63b1117249083b747c2e12"
+    ],
+    "tree": "211da61a8ac11063dc53196bb2978107622b20aa",
+    "author": {
+      "user": { "name": "Justin Guze", "email": "jguze@squareup.com" },
+      "date": "2022-05-12T08:15:46-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-05-12T08:15:46-07:00"
+    },
+    "message": "Merge pull request #90 from square/release/19.0.0.20220512\n\nGenerated PR for Release: 19.0.0.20220512",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "b779c372ff772522ec63b1117249083b747c2e12",
+    "parents": ["fe2dffa1d53dc4fe56fcb009465739293cf0016b"],
+    "tree": "211da61a8ac11063dc53196bb2978107622b20aa",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-05-12T15:13:01+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-05-12T15:13:01+00:00"
+    },
+    "message": "Generated PR for Release: 19.0.0.20220512"
+  },
+  {
+    "sha1": "fe2dffa1d53dc4fe56fcb009465739293cf0016b",
+    "parents": [
+      "a597f14c8b3fd6f0fad97e09bfb6ef4706588f7b",
+      "7777cecc617d7cad253cf296389a4382884a3242"
+    ],
+    "tree": "4278d0d2646352988d33b5d8ca44aa4467232188",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-04-21T11:20:08-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-04-21T11:20:08-05:00"
+    },
+    "message": "Merge pull request #89 from mcurtis-squareup/patch-1\n\nUpdate README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "7777cecc617d7cad253cf296389a4382884a3242",
+    "parents": ["a597f14c8b3fd6f0fad97e09bfb6ef4706588f7b"],
+    "tree": "4278d0d2646352988d33b5d8ca44aa4467232188",
+    "author": {
+      "user": {
+        "name": "mcurtis-squareup",
+        "email": "89655685+mcurtis-squareup@users.noreply.github.com"
+      },
+      "date": "2022-04-20T15:54:28-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-04-20T15:54:28-07:00"
+    },
+    "message": "Update README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "a597f14c8b3fd6f0fad97e09bfb6ef4706588f7b",
+    "parents": [
+      "13b161ffe2067154ba847c5628fa349c663d738e",
+      "16a0674dcf58a0e6d1b131ada8c443d2ba61698c"
+    ],
+    "tree": "47a317104b3460a39af70d2590eaac30c3fb55ac",
+    "author": {
+      "user": { "name": "Justin Guze", "email": "jguze@squareup.com" },
+      "date": "2022-04-19T15:29:27-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-04-19T15:29:27-07:00"
+    },
+    "message": "Merge pull request #88 from square/release/18.0.0.20220420\n\nGenerated PR for Release: 18.0.0.20220420",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["18.0.0.20220420"]
+  },
+  {
+    "sha1": "16a0674dcf58a0e6d1b131ada8c443d2ba61698c",
+    "parents": ["13b161ffe2067154ba847c5628fa349c663d738e"],
+    "tree": "47a317104b3460a39af70d2590eaac30c3fb55ac",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-04-19T22:25:41+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-04-19T22:25:41+00:00"
+    },
+    "message": "Generated PR for Release: 18.0.0.20220420",
+    "refs": ["origin/release/18.0.0.20220420"]
+  },
+  {
+    "sha1": "13b161ffe2067154ba847c5628fa349c663d738e",
+    "parents": [
+      "c4050006bc371e593fddecdf07241e21940745cf",
+      "cdb40591836b505d20f830ea75029f11942e8155"
+    ],
+    "tree": "a17f60407b76d22e045d0206beead2b67a618251",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2022-03-16T14:07:46-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-03-16T14:07:46-07:00"
+    },
+    "message": "Merge pull request #86 from square/release/17.3.0.20220316\n\nGenerated PR for Release: 17.3.0.20220316",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "cdb40591836b505d20f830ea75029f11942e8155",
+    "parents": ["c4050006bc371e593fddecdf07241e21940745cf"],
+    "tree": "a17f60407b76d22e045d0206beead2b67a618251",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-03-16T21:04:51+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-03-16T21:04:51+00:00"
+    },
+    "message": "Generated PR for Release: 17.3.0.20220316",
+    "refs": ["origin/release/17.3.0.20220316"]
+  },
+  {
+    "sha1": "c4050006bc371e593fddecdf07241e21940745cf",
+    "parents": [
+      "a04a48e47570f67e0f220b1550f859cbdf6964d2",
+      "2b01c0f8bb9a9425561e5472c808f565612de0ed"
+    ],
+    "tree": "ae10f5670249df8602a4e9e6d2a8956ff7b05190",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2022-03-15T15:05:46-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-03-15T15:05:46-07:00"
+    },
+    "message": "Merge pull request #85 from square/release/17.3.0.20220316\n\nGenerated PR for Release: 17.3.0.20220316",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["17.3.0.20220316"]
+  },
+  {
+    "sha1": "2b01c0f8bb9a9425561e5472c808f565612de0ed",
+    "parents": ["a04a48e47570f67e0f220b1550f859cbdf6964d2"],
+    "tree": "ae10f5670249df8602a4e9e6d2a8956ff7b05190",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-03-15T21:52:54+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-03-15T21:52:54+00:00"
+    },
+    "message": "Generated PR for Release: 17.3.0.20220316"
+  },
+  {
+    "sha1": "a04a48e47570f67e0f220b1550f859cbdf6964d2",
+    "parents": [
+      "1f5f34bc792e31991db0fb2756d92c717f2dcfa4",
+      "915db3a0753f25dd1d67fc5b8cfd7813bc0fe1d5"
+    ],
+    "tree": "a9aa570eeb7dab8cfdaec3f4e70941f330502230",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-02-15T16:24:48-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-02-15T16:24:48-06:00"
+    },
+    "message": "Merge pull request #84 from square/release/17.2.0.20220216\n\nGenerated PR for Release: 17.2.0.20220216",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["17.2.0.20220216"]
+  },
+  {
+    "sha1": "915db3a0753f25dd1d67fc5b8cfd7813bc0fe1d5",
+    "parents": ["1f5f34bc792e31991db0fb2756d92c717f2dcfa4"],
+    "tree": "a9aa570eeb7dab8cfdaec3f4e70941f330502230",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-02-15T22:21:51+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-02-15T22:21:51+00:00"
+    },
+    "message": "Generated PR for Release: 17.2.0.20220216",
+    "refs": ["origin/release/17.2.0.20220216"]
+  },
+  {
+    "sha1": "1f5f34bc792e31991db0fb2756d92c717f2dcfa4",
+    "parents": [
+      "0846994d73918472a1f2633c9873cc944182c074",
+      "f2738df2a2bd3cc6bfb04b0e172daa30cf8de65b"
+    ],
+    "tree": "4337c44d03ab3ff12a0eff4b6be15ae35387d886",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-01-28T14:49:28-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-01-28T14:49:28-06:00"
+    },
+    "message": "Merge pull request #83 from square/wolfgang/remove-extra-automerge-action\n\nfix: Remove extra automerge action to fix automerging",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "f2738df2a2bd3cc6bfb04b0e172daa30cf8de65b",
+    "parents": ["0846994d73918472a1f2633c9873cc944182c074"],
+    "tree": "4337c44d03ab3ff12a0eff4b6be15ae35387d886",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-01-28T14:29:43-06:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2022-01-28T14:29:43-06:00"
+    },
+    "message": "fix: Remove extra automerge action to fix automerging",
+    "refs": ["origin/wolfgang/remove-extra-automerge-action"]
+  },
+  {
+    "sha1": "0846994d73918472a1f2633c9873cc944182c074",
+    "parents": [
+      "dee4a023d618cdd993d9912d5b8fd9022fb6143a",
+      "f5786c27af37d4acd0c81f796a8be57396dc7148"
+    ],
+    "tree": "67529b6ed94289409f72d705cf6c83106d3d3675",
+    "author": {
+      "user": { "name": "Justin Guze", "email": "jguze@squareup.com" },
+      "date": "2022-01-19T16:57:25-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2022-01-19T16:57:25-08:00"
+    },
+    "message": "Merge pull request #82 from square/release/17.1.0.20220120\n\nGenerated PR for Release: 17.1.0.20220120",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["17.1.0.20220120"]
+  },
+  {
+    "sha1": "f5786c27af37d4acd0c81f796a8be57396dc7148",
+    "parents": ["dee4a023d618cdd993d9912d5b8fd9022fb6143a"],
+    "tree": "67529b6ed94289409f72d705cf6c83106d3d3675",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-01-20T00:51:59+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2022-01-20T00:51:59+00:00"
+    },
+    "message": "Generated PR for Release: 17.1.0.20220120",
+    "refs": ["origin/release/17.1.0.20220120"]
+  },
+  {
+    "sha1": "dee4a023d618cdd993d9912d5b8fd9022fb6143a",
+    "parents": [
+      "c5b6084d86a6693bae5ae23741cb3dab32b55207",
+      "0a824b7d4f30c8e94f16d7f60588293e2c321c7b"
+    ],
+    "tree": "fc96d0abffb8a4969435978c31ee8d449464b888",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2021-12-14T15:59:50-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-12-14T15:59:50-08:00"
+    },
+    "message": "Merge pull request #81 from square/release/17.0.0.20211215\n\nGenerated PR for Release: 17.0.0.20211215",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["17.0.0.20211215"]
+  },
+  {
+    "sha1": "0a824b7d4f30c8e94f16d7f60588293e2c321c7b",
+    "parents": ["c5b6084d86a6693bae5ae23741cb3dab32b55207"],
+    "tree": "fc96d0abffb8a4969435978c31ee8d449464b888",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-12-14T23:44:57+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-12-14T23:44:57+00:00"
+    },
+    "message": "Generated PR for Release: 17.0.0.20211215",
+    "refs": ["origin/release/17.0.0.20211215"]
+  },
+  {
+    "sha1": "c5b6084d86a6693bae5ae23741cb3dab32b55207",
+    "parents": [
+      "15193d0a28d077f8ca5e3b2f8dadf1b47d90a457",
+      "a5be2c4df33b972a82cdb2322d1fe59865e59f9b"
+    ],
+    "tree": "ce193811526c02ad471c3374a86bd75b4faa385d",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2021-11-16T17:08:23-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-11-16T17:08:23-08:00"
+    },
+    "message": "Merge pull request #80 from square/release/16.0.0.20211117\n\nGenerated PR for Release: 16.0.0.20211117",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["16.0.0.20211117"]
+  },
+  {
+    "sha1": "a5be2c4df33b972a82cdb2322d1fe59865e59f9b",
+    "parents": ["15193d0a28d077f8ca5e3b2f8dadf1b47d90a457"],
+    "tree": "ce193811526c02ad471c3374a86bd75b4faa385d",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-11-17T00:56:18+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-11-17T00:56:18+00:00"
+    },
+    "message": "Generated PR for Release: 16.0.0.20211117",
+    "refs": ["origin/release/16.0.0.20211117"]
+  },
+  {
+    "sha1": "15193d0a28d077f8ca5e3b2f8dadf1b47d90a457",
+    "parents": [
+      "3271d6cf1e7cf87bea6a793305d4e8e558a7e338",
+      "79ae7ce2c3c0ad52fe8dd803a7ff7a7bcb40692a"
+    ],
+    "tree": "9c2e2ec3e1b9ddce85522f0f22eb3e11ac6fe957",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-10-20T10:44:59-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-10-20T10:44:59-05:00"
+    },
+    "message": "Merge pull request #79 from square/release/15.0.0.20211020\n\nGenerated PR for Release: 15.0.0.20211020",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["15.0.0.20211020"]
+  },
+  {
+    "sha1": "79ae7ce2c3c0ad52fe8dd803a7ff7a7bcb40692a",
+    "parents": ["3271d6cf1e7cf87bea6a793305d4e8e558a7e338"],
+    "tree": "9c2e2ec3e1b9ddce85522f0f22eb3e11ac6fe957",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-10-20T15:38:11+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-10-20T15:38:11+00:00"
+    },
+    "message": "Generated PR for Release: 15.0.0.20211020",
+    "refs": ["origin/release/15.0.0.20211020"]
+  },
+  {
+    "sha1": "3271d6cf1e7cf87bea6a793305d4e8e558a7e338",
+    "parents": [
+      "64b1180ec020ae3247fc7446309fcb26a737fed0",
+      "c3a2dd3dfca12123f93325ff89dc8df35e6f321c"
+    ],
+    "tree": "9e44f2b58d9f3fb0f06c2f0f20ab1673689bb7b6",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-10-05T15:09:49-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-10-05T15:09:49-05:00"
+    },
+    "message": "Merge pull request #77 from square/wolfgang/fix-license-date\n\nFix license date",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "c3a2dd3dfca12123f93325ff89dc8df35e6f321c",
+    "parents": ["64b1180ec020ae3247fc7446309fcb26a737fed0"],
+    "tree": "9e44f2b58d9f3fb0f06c2f0f20ab1673689bb7b6",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-10-05T15:00:25-05:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-10-05T15:00:25-05:00"
+    },
+    "message": "Fix license date",
+    "refs": ["origin/wolfgang/fix-license-date"]
+  },
+  {
+    "sha1": "64b1180ec020ae3247fc7446309fcb26a737fed0",
+    "parents": [
+      "e49c54eb00e81232053bd49e5ed44e8b40c47014",
+      "1512a6982b652a113a05b025fce049d55d237f02"
+    ],
+    "tree": "039d4fc6b2d20f5bffe5dc16a3c68b3b9f64b70c",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-09-30T11:48:57-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-09-30T11:48:57-05:00"
+    },
+    "message": "Merge pull request #75 from square/release/14.1.1.20210915\n\nGenerated PR for Release: 14.1.1.20210915",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["14.1.1.20210915"]
+  },
+  {
+    "sha1": "1512a6982b652a113a05b025fce049d55d237f02",
+    "parents": ["e49c54eb00e81232053bd49e5ed44e8b40c47014"],
+    "tree": "039d4fc6b2d20f5bffe5dc16a3c68b3b9f64b70c",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-30T16:46:55+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-30T16:46:55+00:00"
+    },
+    "message": "Generated PR for Release: 14.1.1.20210915",
+    "refs": ["origin/release/14.1.1.20210915"]
+  },
+  {
+    "sha1": "e49c54eb00e81232053bd49e5ed44e8b40c47014",
+    "parents": [
+      "dc9750c6ed83637c868745dcd3ab73598cb62a5c",
+      "f238259809ca001f044b2ecd557e37e77bdcd87c"
+    ],
+    "tree": "debb3dc17f30606d62428a8bb1e58c240d095732",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-09-20T13:29:11-05:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-09-20T13:29:11-05:00"
+    },
+    "message": "Merge pull request #74 from square/wolfgang/put-v13-changelog-back\n\nAdd back the v13 changelog details",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "f238259809ca001f044b2ecd557e37e77bdcd87c",
+    "parents": ["dc9750c6ed83637c868745dcd3ab73598cb62a5c"],
+    "tree": "debb3dc17f30606d62428a8bb1e58c240d095732",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-09-20T13:12:12-05:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-09-20T13:12:12-05:00"
+    },
+    "message": "Add back the v13 changelog details",
+    "refs": ["origin/wolfgang/put-v13-changelog-back"]
+  },
+  {
+    "sha1": "dc9750c6ed83637c868745dcd3ab73598cb62a5c",
+    "parents": [
+      "cc1f910bfee33c65a458d63f5858075548c26899",
+      "5d8159a1c0298fb25da4cdf4f6aacc4911a41467"
+    ],
+    "tree": "086fac98ef264b08cf6ae302802ead5b4c6b0798",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2021-09-16T11:33:16-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-09-16T11:33:16-07:00"
+    },
+    "message": "Merge pull request #73 from square/release/14.1.0.20210915\n\nGenerated PR for Release: 14.1.0.20210915",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["14.1.0.20210915"]
+  },
+  {
+    "sha1": "5d8159a1c0298fb25da4cdf4f6aacc4911a41467",
+    "parents": ["cc1f910bfee33c65a458d63f5858075548c26899"],
+    "tree": "086fac98ef264b08cf6ae302802ead5b4c6b0798",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-16T18:30:49+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-16T18:30:49+00:00"
+    },
+    "message": "Generated PR for Release: 14.1.0.20210915",
+    "refs": ["origin/release/14.1.0.20210915"]
+  },
+  {
+    "sha1": "cc1f910bfee33c65a458d63f5858075548c26899",
+    "parents": [
+      "60fd1fa3ff656cc657eaef5d49af27536b1d0646",
+      "612b521c588306f703780e41213f34394efc58b5"
+    ],
+    "tree": "389dc7ecd713d99fdc9e5bbf22e51018ba5baeeb",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2021-09-15T13:01:37-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-09-15T13:01:37-07:00"
+    },
+    "message": "Merge pull request #71 from square/release/14.0.0.20210915\n\nGenerated PR for Release: 14.0.0.20210915",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["14.0.0.20210915"]
+  },
+  {
+    "sha1": "612b521c588306f703780e41213f34394efc58b5",
+    "parents": ["60fd1fa3ff656cc657eaef5d49af27536b1d0646"],
+    "tree": "389dc7ecd713d99fdc9e5bbf22e51018ba5baeeb",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-15T19:58:51+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-15T19:58:51+00:00"
+    },
+    "message": "Generated PR for Release: 14.0.0.20210915",
+    "refs": ["origin/release/14.0.0.20210915"]
+  },
+  {
+    "sha1": "60fd1fa3ff656cc657eaef5d49af27536b1d0646",
+    "parents": [
+      "bc9dad37786e1878dcb48a54c6e320e1b4a5ac59",
+      "5ff7920161a839697c02f4c339d32c1476dbc075"
+    ],
+    "tree": "30039ca31c2b5e7236a7df6f701a6f6f80bfed94",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2021-09-15T11:28:35-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-09-15T11:28:35-07:00"
+    },
+    "message": "Merge pull request #70 from square/release/13.0.0.20210721\n\nGenerated PR for Release: 13.0.0.20210721",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "5ff7920161a839697c02f4c339d32c1476dbc075",
+    "parents": ["bc9dad37786e1878dcb48a54c6e320e1b4a5ac59"],
+    "tree": "30039ca31c2b5e7236a7df6f701a6f6f80bfed94",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-15T18:26:23+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-09-15T18:26:23+00:00"
+    },
+    "message": "Generated PR for Release: 13.0.0.20210721",
+    "refs": ["origin/release/13.0.0.20210721"]
+  },
+  {
+    "sha1": "bc9dad37786e1878dcb48a54c6e320e1b4a5ac59",
+    "parents": [
+      "13847a1e678a441a89b8c56c5b6211dc09e3a185",
+      "69fe431f36420f4b8f7c821b04de80e8510eefe9"
+    ],
+    "tree": "b46ca82837513e50c3eb10aaad4aeda3f6cb1077",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-08-18T10:45:32-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-08-18T10:45:32-06:00"
+    },
+    "message": "Merge pull request #68 from square/release/13.1.0.20210818\n\nGenerated PR for Release: 13.1.0.20210818",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["13.1.0.20210818"]
+  },
+  {
+    "sha1": "69fe431f36420f4b8f7c821b04de80e8510eefe9",
+    "parents": ["13847a1e678a441a89b8c56c5b6211dc09e3a185"],
+    "tree": "b46ca82837513e50c3eb10aaad4aeda3f6cb1077",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-08-18T16:34:15+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-08-18T16:34:15+00:00"
+    },
+    "message": "Generated PR for Release: 13.1.0.20210818",
+    "refs": ["origin/release/13.1.0.20210818"]
+  },
+  {
+    "sha1": "13847a1e678a441a89b8c56c5b6211dc09e3a185",
+    "parents": [
+      "ef28813e816c1d446fc01a5261c16d34d4393a0a",
+      "5cfe1e98c9c3639d4c50172f12d2411a416608e9"
+    ],
+    "tree": "bfa1ccbbd5e1034d1f5d712c9ecddd1281ecfe67",
+    "author": {
+      "user": {
+        "name": "Joan Chao",
+        "email": "86378073+joanc-sq@users.noreply.github.com"
+      },
+      "date": "2021-08-12T13:36:48-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-08-12T13:36:48-07:00"
+    },
+    "message": "Merge pull request #67 from square/joanc/DEX-6970-automerge\n\nadding automerge github action for generated prs",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "ef28813e816c1d446fc01a5261c16d34d4393a0a",
+    "parents": [
+      "68ae7a298b9546655b230125303e47e99efe96b2",
+      "dbefd74e85f28e99bc1ddf6dee6af48cafe19910"
+    ],
+    "tree": "bea695d75c03a4413a5857fd5f70eecc3690f78c",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-08-12T12:57:12-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-08-12T12:57:12-06:00"
+    },
+    "message": "Merge pull request #65 from square/wolfgang/update-table-of-contents\n\nUpdate table of contents",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "5cfe1e98c9c3639d4c50172f12d2411a416608e9",
+    "parents": ["68ae7a298b9546655b230125303e47e99efe96b2"],
+    "tree": "ee6b34d8f375c19e9e4606d35e20f2fb99ec681d",
+    "author": {
+      "user": { "name": "Joan Chao", "email": "joanc@squareup.com" },
+      "date": "2021-08-12T11:36:55-07:00"
+    },
+    "committer": {
+      "user": { "name": "Joan Chao", "email": "joanc@squareup.com" },
+      "date": "2021-08-12T11:36:55-07:00"
+    },
+    "message": "adding automerge step for generated prs",
+    "refs": ["origin/joanc/DEX-6970-automerge"]
+  },
+  {
+    "sha1": "dbefd74e85f28e99bc1ddf6dee6af48cafe19910",
+    "parents": ["68ae7a298b9546655b230125303e47e99efe96b2"],
+    "tree": "bea695d75c03a4413a5857fd5f70eecc3690f78c",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-08-11T15:15:21-05:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-08-11T15:15:21-05:00"
+    },
+    "message": "Update table of contents",
+    "refs": ["origin/wolfgang/update-table-of-contents"]
+  },
+  {
+    "sha1": "68ae7a298b9546655b230125303e47e99efe96b2",
+    "parents": [
+      "119649c9c38159408dfd5f9e3cd5085366f8ec78",
+      "fd6ec449b4414afb195baf4e44ab2accf5c096dc"
+    ],
+    "tree": "17e468133cd8a04b9d7780de61579d832b4dce26",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2021-07-20T23:41:53-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-07-20T23:41:53-07:00"
+    },
+    "message": "Merge pull request #64 from square/release/13.0.0.20210721\n\nGenerated PR for Release: 13.0.0.20210721",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["13.0.0.20210721"]
+  },
+  {
+    "sha1": "fd6ec449b4414afb195baf4e44ab2accf5c096dc",
+    "parents": ["119649c9c38159408dfd5f9e3cd5085366f8ec78"],
+    "tree": "17e468133cd8a04b9d7780de61579d832b4dce26",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-07-21T05:13:32+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-07-21T05:13:32+00:00"
+    },
+    "message": "Generated PR for Release: 13.0.0.20210721"
+  },
+  {
+    "sha1": "119649c9c38159408dfd5f9e3cd5085366f8ec78",
+    "parents": [
+      "5d30eea8d8f8709fd444284926419e953f88b983",
+      "228f7c59a7fcc74d0018c426d415495d2c761afc"
+    ],
+    "tree": "4a8110dca6aa157706e5bf08bea9eb618623be65",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-06-15T16:42:15-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-06-15T16:42:15-06:00"
+    },
+    "message": "Merge pull request #60 from square/release/12.0.0.20210616\n\nGenerated PR for Release: 12.0.0.20210616",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["12.0.0.20210616"]
+  },
+  {
+    "sha1": "228f7c59a7fcc74d0018c426d415495d2c761afc",
+    "parents": ["5d30eea8d8f8709fd444284926419e953f88b983"],
+    "tree": "4a8110dca6aa157706e5bf08bea9eb618623be65",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-06-15T22:41:20+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-06-15T22:41:20+00:00"
+    },
+    "message": "Generated PR for Release: 12.0.0.20210616",
+    "refs": ["origin/release/12.0.0.20210616"]
+  },
+  {
+    "sha1": "5d30eea8d8f8709fd444284926419e953f88b983",
+    "parents": [
+      "49546d6c282bea5fd63d90b477b28b281ec047b0",
+      "d4f5ed11cc0962fd92f00b4e78a50d37da04a249"
+    ],
+    "tree": "de4c507eb7a6dcbe57b50d31a8df3cad33f7fc37",
+    "author": {
+      "user": {
+        "name": "Dean Papastrat",
+        "email": "dpapastrat@squareup.com"
+      },
+      "date": "2021-05-13T08:22:53-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-05-13T08:22:53-07:00"
+    },
+    "message": "Merge pull request #59 from square/release/11.0.0.20210513\n\nGenerated PR for Release: 11.0.0.20210513",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["11.0.0.20210513"]
+  },
+  {
+    "sha1": "d4f5ed11cc0962fd92f00b4e78a50d37da04a249",
+    "parents": ["49546d6c282bea5fd63d90b477b28b281ec047b0"],
+    "tree": "de4c507eb7a6dcbe57b50d31a8df3cad33f7fc37",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-05-13T15:18:36+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-05-13T15:18:36+00:00"
+    },
+    "message": "Generated PR for Release: 11.0.0.20210513",
+    "refs": ["origin/release/11.0.0.20210513"]
+  },
+  {
+    "sha1": "49546d6c282bea5fd63d90b477b28b281ec047b0",
+    "parents": ["035d46f544d038253cedfa2b76774cb8b3c01320"],
+    "tree": "525e8abc4b0fd4465e864333247b4fe26e9fb32d",
+    "author": {
+      "user": {
+        "name": "Dean Papastrat",
+        "email": "dpapastrat@squareup.com"
+      },
+      "date": "2021-05-10T18:33:54-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-05-10T18:33:54-07:00"
+    },
+    "message": "Move away from Travis CI builds",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "035d46f544d038253cedfa2b76774cb8b3c01320",
+    "parents": [
+      "29a521f2db86dae6215f4e99bb25aff1ec2ea379",
+      "bd715ab4f89ed4cd9afbf33c46d576a6e42e8657"
+    ],
+    "tree": "c465aa9bf81d871470c68acde9f09499e0fd661d",
+    "author": {
+      "user": {
+        "name": "Wolfgang Schuster",
+        "email": "wolfgang@squareup.com"
+      },
+      "date": "2021-04-21T13:29:22-06:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-04-21T13:29:22-06:00"
+    },
+    "message": "Merge pull request #57 from square/release/10.0.0.20210421\n\nGenerated PR for Release: 10.0.0.20210421",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "bd715ab4f89ed4cd9afbf33c46d576a6e42e8657",
+    "parents": ["29a521f2db86dae6215f4e99bb25aff1ec2ea379"],
+    "tree": "c465aa9bf81d871470c68acde9f09499e0fd661d",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-04-21T19:18:42+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-04-21T19:18:42+00:00"
+    },
+    "message": "Generated PR for Release: 10.0.0.20210421",
+    "refs": ["origin/release/10.0.0.20210421"]
+  },
+  {
+    "sha1": "29a521f2db86dae6215f4e99bb25aff1ec2ea379",
+    "parents": [
+      "503b7ed5212348defe3b47e8125293cbefa06d88",
+      "0951504b0c9201d533e9a3823c955030c4dd719b"
+    ],
+    "tree": "fe6dbdf400a742d8d67c79b5c2b65dc45ba16dd0",
+    "author": {
+      "user": { "name": "Xiao Hu", "email": "xiao@squareup.com" },
+      "date": "2021-03-17T10:37:45-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-03-17T10:37:45-07:00"
+    },
+    "message": "Merge pull request #55 from square/release/9.1.0.20210317\n\nGenerated PR for Release: 9.1.0.20210317",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["9.1.0.20210317", "10.0.0.20210421"]
+  },
+  {
+    "sha1": "0951504b0c9201d533e9a3823c955030c4dd719b",
+    "parents": ["503b7ed5212348defe3b47e8125293cbefa06d88"],
+    "tree": "fe6dbdf400a742d8d67c79b5c2b65dc45ba16dd0",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-03-17T17:13:18+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-03-17T17:13:18+00:00"
+    },
+    "message": "Generated PR for Release: 9.1.0.20210317",
+    "refs": ["origin/release/9.1.0.20210317"]
+  },
+  {
+    "sha1": "503b7ed5212348defe3b47e8125293cbefa06d88",
+    "parents": [
+      "ba74639d0ae4c141fe5de9fd9e49cb7d5bfbe2c2",
+      "ff90f108f17f7c24568ae3dedb1e6ebe795ed4aa"
+    ],
+    "tree": "586e7cb95bc52b3c6b4a9a3c44b8c7a5bae27512",
+    "author": {
+      "user": {
+        "name": "Dean Papastrat",
+        "email": "dpapastrat@squareup.com"
+      },
+      "date": "2021-02-26T10:30:30-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-02-26T10:30:30-08:00"
+    },
+    "message": "Merge pull request #54 from square/release/9.0.0.20210226\n\nGenerated PR for Release: 9.0.0.20210226",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["9.0.0.20210226"]
+  },
+  {
+    "sha1": "ff90f108f17f7c24568ae3dedb1e6ebe795ed4aa",
+    "parents": ["ba74639d0ae4c141fe5de9fd9e49cb7d5bfbe2c2"],
+    "tree": "586e7cb95bc52b3c6b4a9a3c44b8c7a5bae27512",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-02-26T17:44:56+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-02-26T17:44:56+00:00"
+    },
+    "message": "Generated PR for Release: 9.0.0.20210226",
+    "refs": ["origin/release/9.0.0.20210226"]
+  },
+  {
+    "sha1": "ba74639d0ae4c141fe5de9fd9e49cb7d5bfbe2c2",
+    "parents": [
+      "e46d0d8759628bda37591a5b186dda9987428532",
+      "b4729a493a86b0f050a5ed2bc169f7f5af7421db"
+    ],
+    "tree": "b1792ca74240ee8e2570b44e26c5e42c96b66089",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2021-01-21T10:18:44-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2021-01-21T10:18:44-08:00"
+    },
+    "message": "Merge pull request #53 from square/release/8.1.0.20210121\n\nGenerated PR for Release: 8.1.0.20210121",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["8.1.0.20210121"]
+  },
+  {
+    "sha1": "b4729a493a86b0f050a5ed2bc169f7f5af7421db",
+    "parents": ["e46d0d8759628bda37591a5b186dda9987428532"],
+    "tree": "b1792ca74240ee8e2570b44e26c5e42c96b66089",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-01-21T18:07:56+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2021-01-21T18:07:56+00:00"
+    },
+    "message": "Generated PR for Release: 8.1.0.20210121",
+    "refs": ["origin/release/8.1.0.20210121"]
+  },
+  {
+    "sha1": "e46d0d8759628bda37591a5b186dda9987428532",
+    "parents": [
+      "b938aa9f3d30f23f2c679400ae78eb8977b1ed75",
+      "49b02c6c76f5121b1b095da7e9461405682b8290"
+    ],
+    "tree": "0b5105a639d95f8cbb6db479921aaf4f5fdafefa",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-12-16T14:15:50-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-12-16T14:15:50-08:00"
+    },
+    "message": "Merge pull request #52 from square/mohsin-sq-patch-1\n\nUpdate README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "49b02c6c76f5121b1b095da7e9461405682b8290",
+    "parents": ["b938aa9f3d30f23f2c679400ae78eb8977b1ed75"],
+    "tree": "0b5105a639d95f8cbb6db479921aaf4f5fdafefa",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-12-16T12:18:12-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-12-16T12:18:12-08:00"
+    },
+    "message": "Update README.md\n\nUpdated travis. tag.",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "refs": ["origin/mohsin-sq-patch-1"]
+  },
+  {
+    "sha1": "b938aa9f3d30f23f2c679400ae78eb8977b1ed75",
+    "parents": [
+      "54364805d3f7f75573cb9af2003976a455328fc2",
+      "f7005f7302215197e5cbfbc2dc3864c61891f9d3"
+    ],
+    "tree": "e93f1dd33db6f591c289161d651feffad754413a",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-12-16T10:26:56-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-12-16T10:26:56-08:00"
+    },
+    "message": "Merge pull request #51 from square/mohsin/remove-v1-locations-test\n\ndeleted v1 locations test.",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["8.0.0.20201216"]
+  },
+  {
+    "sha1": "f7005f7302215197e5cbfbc2dc3864c61891f9d3",
+    "parents": ["54364805d3f7f75573cb9af2003976a455328fc2"],
+    "tree": "e93f1dd33db6f591c289161d651feffad754413a",
+    "author": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-12-16T10:26:01-08:00"
+    },
+    "committer": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-12-16T10:26:01-08:00"
+    },
+    "message": "deleted v1 locations test.",
+    "refs": ["origin/mohsin/remove-v1-locations-test"]
+  },
+  {
+    "sha1": "54364805d3f7f75573cb9af2003976a455328fc2",
+    "parents": [
+      "f8b7ec3932bc244479b0f0a5ba8d2ee98ffbb499",
+      "b3db810060c5a3c5da7c3e99a3c21460b2b3830b"
+    ],
+    "tree": "7e4c371c245ee84e02b7e9c8ea7815f3da6eb20d",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-12-16T10:24:28-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-12-16T10:24:28-08:00"
+    },
+    "message": "Merge pull request #50 from square/release/8.0.0.20201216\n\nGenerated PR for Release: 8.0.0.20201216",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "b3db810060c5a3c5da7c3e99a3c21460b2b3830b",
+    "parents": ["f8b7ec3932bc244479b0f0a5ba8d2ee98ffbb499"],
+    "tree": "7e4c371c245ee84e02b7e9c8ea7815f3da6eb20d",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-12-16T18:20:29+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-12-16T18:20:29+00:00"
+    },
+    "message": "Generated PR for Release: 8.0.0.20201216",
+    "refs": ["origin/release/8.0.0.20201216"]
+  },
+  {
+    "sha1": "f8b7ec3932bc244479b0f0a5ba8d2ee98ffbb499",
+    "parents": ["4adb3d2991b7f4b5351668afdbe56edeb6575805"],
+    "tree": "5d0cfe1667c8af3629d0c4780e57938c48060c4a",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-11-24T10:17:51-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-11-24T10:17:51-08:00"
+    },
+    "message": "Update README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "4adb3d2991b7f4b5351668afdbe56edeb6575805",
+    "parents": [
+      "768d0cd0b220bfe44e64428beda32130eb7d6d2e",
+      "69bd9305a23357d836a8eb04c56e6f5d1b74c2f3"
+    ],
+    "tree": "cc5ea2d9d2fb48f912d6824d76cc5eaddf889515",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-11-18T10:01:09-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-11-18T10:01:09-08:00"
+    },
+    "message": "Merge pull request #49 from square/release/7.0.0.20201118\n\nGenerated PR for Release: 7.0.0.20201118",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["7.0.0.20201118"]
+  },
+  {
+    "sha1": "69bd9305a23357d836a8eb04c56e6f5d1b74c2f3",
+    "parents": ["768d0cd0b220bfe44e64428beda32130eb7d6d2e"],
+    "tree": "cc5ea2d9d2fb48f912d6824d76cc5eaddf889515",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-11-18T17:50:57+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-11-18T17:50:57+00:00"
+    },
+    "message": "Generated PR for Release: 7.0.0.20201118",
+    "refs": ["origin/release/7.0.0.20201118"]
+  },
+  {
+    "sha1": "768d0cd0b220bfe44e64428beda32130eb7d6d2e",
+    "parents": [
+      "187d8e677410b16025c012c6530ee6000ed05415",
+      "0ff0a51c5a21f7cea3e40ac0bbb4fc6927214843"
+    ],
+    "tree": "c83e31fd8db31e35f37e92047dcdfb2fd045bd30",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-11-10T13:15:14-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-11-10T13:15:14-08:00"
+    },
+    "message": "Merge pull request #48 from square/mohsin/fix-travis-build\n\nRe-encrypted the env variable for this repo.",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "0ff0a51c5a21f7cea3e40ac0bbb4fc6927214843",
+    "parents": ["187d8e677410b16025c012c6530ee6000ed05415"],
+    "tree": "c83e31fd8db31e35f37e92047dcdfb2fd045bd30",
+    "author": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-11-10T09:39:06-08:00"
+    },
+    "committer": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-11-10T09:39:06-08:00"
+    },
+    "message": "Re-encrypted the env variable for this repo.",
+    "refs": ["origin/mohsin/fix-travis-build"]
+  },
+  {
+    "sha1": "187d8e677410b16025c012c6530ee6000ed05415",
+    "parents": [
+      "2d05199e07f5302c0a70242f63b11935e913ffe6",
+      "64652ca5b7e98eeca67ba5d05d2ada7ec9dd80a0"
+    ],
+    "tree": "6a18ea2f289e1682bcecbc2b4e5cb6dc7587bdbd",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-10-29T13:51:42-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-10-29T13:51:42-07:00"
+    },
+    "message": "Merge pull request #47 from square/jessdelacruzsantos/RemoveDuplicateMarkdown\n\nRemove duplicate markdowns",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "64652ca5b7e98eeca67ba5d05d2ada7ec9dd80a0",
+    "parents": ["2d05199e07f5302c0a70242f63b11935e913ffe6"],
+    "tree": "6a18ea2f289e1682bcecbc2b4e5cb6dc7587bdbd",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-10-29T13:48:24-07:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-10-29T13:48:24-07:00"
+    },
+    "message": "Remove duplicate markdowns",
+    "refs": ["origin/jessdelacruzsantos/RemoveDuplicateMarkdown"]
+  },
+  {
+    "sha1": "5fae40aee0c5df9221547f623431e47e4889f311",
+    "parents": ["2d05199e07f5302c0a70242f63b11935e913ffe6"],
+    "tree": "6b024873d4ed76b0d86540a6f5d96dc62b372b1b",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-10-29T20:29:21+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-10-29T20:29:21+00:00"
+    },
+    "message": "Generated PR for Release: 6.5.0.20201028",
+    "refs": ["origin/release/6.5.0.20201028"]
+  },
+  {
+    "sha1": "2d05199e07f5302c0a70242f63b11935e913ffe6",
+    "parents": [
+      "d01ed557088a73e25b3133eebf2a363076d77b2a",
+      "cce590495e2e6c34ae9811446e1ec2f1373c0ca7"
+    ],
+    "tree": "7fad0095168355226d461deb20d99ead6612406c",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-10-29T11:57:05-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-10-29T11:57:05-07:00"
+    },
+    "message": "Merge pull request #46 from square/jessdelacruzsantos/FixBrokenReadMeLinks\n\nFix ReadMe Links",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "cce590495e2e6c34ae9811446e1ec2f1373c0ca7",
+    "parents": ["d01ed557088a73e25b3133eebf2a363076d77b2a"],
+    "tree": "7fad0095168355226d461deb20d99ead6612406c",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-10-29T10:49:07-07:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-10-29T10:49:07-07:00"
+    },
+    "message": "Fix ReadMe Links",
+    "refs": ["origin/jessdelacruzsantos/FixBrokenReadMeLinks"]
+  },
+  {
+    "sha1": "d01ed557088a73e25b3133eebf2a363076d77b2a",
+    "parents": [
+      "2bbc25f2308705327b8103d0b0024ae2f642ae49",
+      "e6d4f5202d64aa42441d005cd98840f6664e440c"
+    ],
+    "tree": "fda7468d50b8037588eaa2add1020d391ad33b58",
+    "author": {
+      "user": {
+        "name": "John Fellman",
+        "email": "gkchestertron@users.noreply.github.com"
+      },
+      "date": "2020-10-28T11:26:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-10-28T11:26:57-07:00"
+    },
+    "message": "Merge pull request #44 from square/release/6.5.0.20201028\n\nGenerated PR for Release: 6.5.0.20201028",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.5.0.20201028"]
+  },
+  {
+    "sha1": "e6d4f5202d64aa42441d005cd98840f6664e440c",
+    "parents": ["2bbc25f2308705327b8103d0b0024ae2f642ae49"],
+    "tree": "fda7468d50b8037588eaa2add1020d391ad33b58",
+    "author": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-10-28T18:07:22+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "autobot",
+        "email": "devs-apex+github-pusher@squareup.com"
+      },
+      "date": "2020-10-28T18:07:22+00:00"
+    },
+    "message": "Generated PR for Release: 6.5.0.20201028"
+  },
+  {
+    "sha1": "2bbc25f2308705327b8103d0b0024ae2f642ae49",
+    "parents": [
+      "7221114f2f3aa3417fb0c927f8525f9c49a23dfe",
+      "849e8875f9353cd72ac4cf4e5529a8d7b5134384"
+    ],
+    "tree": "0e8f77c27be095d3c6ea7d98e79b8ed33f8e022f",
+    "author": {
+      "user": {
+        "name": "Xingfu Dong",
+        "email": "52800758+okenshields@users.noreply.github.com"
+      },
+      "date": "2020-10-27T17:39:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-10-27T17:39:57-07:00"
+    },
+    "message": "Merge pull request #43 from square/xingfu/remove-travis-deploy\n\nRemove travis deploy step",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "849e8875f9353cd72ac4cf4e5529a8d7b5134384",
+    "parents": ["7221114f2f3aa3417fb0c927f8525f9c49a23dfe"],
+    "tree": "0e8f77c27be095d3c6ea7d98e79b8ed33f8e022f",
+    "author": {
+      "user": { "name": "Xingfu Dong", "email": "xingfu@squareup.com" },
+      "date": "2020-10-27T15:32:13-07:00"
+    },
+    "committer": {
+      "user": { "name": "Xingfu Dong", "email": "xingfu@squareup.com" },
+      "date": "2020-10-27T15:32:13-07:00"
+    },
+    "message": "Remove travis deploy step",
+    "refs": ["origin/xingfu/remove-travis-deploy"]
+  },
+  {
+    "sha1": "7221114f2f3aa3417fb0c927f8525f9c49a23dfe",
+    "parents": [
+      "5896064b8497c42248c01e0e6b4fc38d23e8662c",
+      "908376ac17fa6bad8e7b005371b37e0152d159e9"
+    ],
+    "tree": "935e9f2ad4399b11424870c477e26080adf8104e",
+    "author": {
+      "user": {
+        "name": "John Fellman",
+        "email": "gkchestertron@users.noreply.github.com"
+      },
+      "date": "2020-09-24T13:51:47-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-09-24T13:51:47-07:00"
+    },
+    "message": "Merge pull request #41 from square/jff/update-readme\n\nupdate readme",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "908376ac17fa6bad8e7b005371b37e0152d159e9",
+    "parents": ["5896064b8497c42248c01e0e6b4fc38d23e8662c"],
+    "tree": "935e9f2ad4399b11424870c477e26080adf8104e",
+    "author": {
+      "user": { "name": "jff", "email": "jfellman@squareup.com" },
+      "date": "2020-09-24T13:17:23-07:00"
+    },
+    "committer": {
+      "user": { "name": "jff", "email": "jfellman@squareup.com" },
+      "date": "2020-09-24T13:23:00-07:00"
+    },
+    "message": "update readme",
+    "refs": ["origin/jff/update-readme"]
+  },
+  {
+    "sha1": "5896064b8497c42248c01e0e6b4fc38d23e8662c",
+    "parents": [
+      "61fde821ee250844721f2650a8932a7c14cdb446",
+      "96632b313bcf3384aa9609ed73a42b8ff5a64c1b"
+    ],
+    "tree": "52c250bffa007d373d6a7c364d18854d2fdeb085",
+    "author": {
+      "user": {
+        "name": "John Fellman",
+        "email": "gkchestertron@users.noreply.github.com"
+      },
+      "date": "2020-09-23T11:43:03-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-09-23T11:43:03-07:00"
+    },
+    "message": "Merge pull request #40 from square/release/6.4.0.20200923\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.4.0.20200923"]
+  },
+  {
+    "sha1": "96632b313bcf3384aa9609ed73a42b8ff5a64c1b",
+    "parents": ["61fde821ee250844721f2650a8932a7c14cdb446"],
+    "tree": "52c250bffa007d373d6a7c364d18854d2fdeb085",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-09-23T18:08:14+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-09-23T18:08:14+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/6.4.0.20200923"]
+  },
+  {
+    "sha1": "ecf33967666c65b6ea588f966a89a4d65d2a5586",
+    "parents": ["d2f72f54fdc883b4218e10f6d209709f2f6841fe"],
+    "tree": "6e3414b1998f802917e437d04ec9ef2eaba217ce",
+    "author": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-08-27T10:59:10-07:00"
+    },
+    "committer": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-08-27T10:59:10-07:00"
+    },
+    "message": "Added a GA workflow for creating release notes by copying the Changelog.",
+    "refs": ["origin/mohsin/release-notes-GA"]
+  },
+  {
+    "sha1": "d2f72f54fdc883b4218e10f6d209709f2f6841fe",
+    "parents": ["61fde821ee250844721f2650a8932a7c14cdb446"],
+    "tree": "143c9399a9a2fe96c42fa6f35c0421a41a249556",
+    "author": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-08-27T10:57:44-07:00"
+    },
+    "committer": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-08-27T10:57:44-07:00"
+    },
+    "message": "Added a GA workflow for creating release notes by copying the Changelog."
+  },
+  {
+    "sha1": "61fde821ee250844721f2650a8932a7c14cdb446",
+    "parents": [
+      "7a9bd5b41f22969f8c75f6c4bdd23185806b269e",
+      "5852b855ac5b3fa520b2434181098ae8980149f1"
+    ],
+    "tree": "58cd8f6e3b951b5afc4df5e793ac4e0a7b2390a5",
+    "author": {
+      "user": {
+        "name": "Xingfu Dong",
+        "email": "52800758+okenshields@users.noreply.github.com"
+      },
+      "date": "2020-08-26T09:20:09-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-08-26T09:20:09-07:00"
+    },
+    "message": "Merge pull request #38 from square/release/6.3.0.20200826\n\nrelease 6.3.0.20200826",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.3.0.20200826"]
+  },
+  {
+    "sha1": "5852b855ac5b3fa520b2434181098ae8980149f1",
+    "parents": ["7a9bd5b41f22969f8c75f6c4bdd23185806b269e"],
+    "tree": "58cd8f6e3b951b5afc4df5e793ac4e0a7b2390a5",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-08-26T15:44:02+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-08-26T15:44:02+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/6.3.0.20200826"]
+  },
+  {
+    "sha1": "7a9bd5b41f22969f8c75f6c4bdd23185806b269e",
+    "parents": [
+      "fc4f4302412826e5711afc91a705ccf2d041830c",
+      "698e94a27949424019c9d648c8d569caab6cb9d3"
+    ],
+    "tree": "de51105e774651c215f18df475d44996c883c777",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-08-12T09:59:49-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-08-12T09:59:49-07:00"
+    },
+    "message": "Merge pull request #37 from square/release/6.2.0.20200812\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.2.0.20200812"]
+  },
+  {
+    "sha1": "698e94a27949424019c9d648c8d569caab6cb9d3",
+    "parents": ["fc4f4302412826e5711afc91a705ccf2d041830c"],
+    "tree": "de51105e774651c215f18df475d44996c883c777",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-08-12T16:49:35+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-08-12T16:49:35+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/6.2.0.20200812"]
+  },
+  {
+    "sha1": "fc4f4302412826e5711afc91a705ccf2d041830c",
+    "parents": [
+      "84b09d94afee28d466c4d8b82d015148fa8b0fd5",
+      "c41cf4553f0d1e2ab0a68a89955916d4c72fa663"
+    ],
+    "tree": "68407c5fe4d774a378e0c20951d0f0d8f8e90b8e",
+    "author": {
+      "user": {
+        "name": "Xingfu Dong",
+        "email": "52800758+okenshields@users.noreply.github.com"
+      },
+      "date": "2020-07-22T09:10:47-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-07-22T09:10:47-07:00"
+    },
+    "message": "Merge pull request #36 from square/release/6.1.0.20200722\n\nrelease 6.1.0.20200722",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.1.0.20200722"]
+  },
+  {
+    "sha1": "c41cf4553f0d1e2ab0a68a89955916d4c72fa663",
+    "parents": ["84b09d94afee28d466c4d8b82d015148fa8b0fd5"],
+    "tree": "68407c5fe4d774a378e0c20951d0f0d8f8e90b8e",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-07-22T15:42:20+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-07-22T15:42:20+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/6.1.0.20200722"]
+  },
+  {
+    "sha1": "84b09d94afee28d466c4d8b82d015148fa8b0fd5",
+    "parents": [
+      "8ccb2050689f0bc9a08a50e202a50ffdbbb07e16",
+      "19e31bba5f65d0571ce16143dcd966f59c367dd1"
+    ],
+    "tree": "d6a0e6338737e104793c42b386915433aac3c39a",
+    "author": {
+      "user": {
+        "name": "mohsin-sq",
+        "email": "64042325+mohsin-sq@users.noreply.github.com"
+      },
+      "date": "2020-07-21T15:25:30-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-07-21T15:25:30-07:00"
+    },
+    "message": "Merge pull request #35 from square/mohsin/travis-file-update\n\nAdded notifications for travis builds on build changes.",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "19e31bba5f65d0571ce16143dcd966f59c367dd1",
+    "parents": ["8ccb2050689f0bc9a08a50e202a50ffdbbb07e16"],
+    "tree": "d6a0e6338737e104793c42b386915433aac3c39a",
+    "author": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-07-21T14:36:50-07:00"
+    },
+    "committer": {
+      "user": { "name": "Mohsin Farooq", "email": "mohsin@squareup.com" },
+      "date": "2020-07-21T14:36:50-07:00"
+    },
+    "message": "Added notifications for travis builds on build changes."
+  },
+  {
+    "sha1": "8ccb2050689f0bc9a08a50e202a50ffdbbb07e16",
+    "parents": [
+      "5cccd347eaf61abe6f8130dd4e401505edc5070b",
+      "6c8136fdd5987bef7299a77a5dbad4c96eab5fbd"
+    ],
+    "tree": "98cb2078945b73a7891dec5367ff6ecbb8b06f18",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-06-25T09:03:55-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-06-25T09:03:55-07:00"
+    },
+    "message": "Merge pull request #34 from square/release/6.0.0.20200625\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["6.0.0.20200625"]
+  },
+  {
+    "sha1": "6c8136fdd5987bef7299a77a5dbad4c96eab5fbd",
+    "parents": ["5cccd347eaf61abe6f8130dd4e401505edc5070b"],
+    "tree": "98cb2078945b73a7891dec5367ff6ecbb8b06f18",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-06-25T15:32:34+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-06-25T15:32:34+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/6.0.0.20200625"]
+  },
+  {
+    "sha1": "5cccd347eaf61abe6f8130dd4e401505edc5070b",
+    "parents": ["e09e1f680b7429c1b1576e7cac5a27873480df9d"],
+    "tree": "6ea84afa41d38e06defb60853969556259301fc4",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-06-03T15:04:58-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-06-03T15:04:58-07:00"
+    },
+    "message": "Fix links",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "e09e1f680b7429c1b1576e7cac5a27873480df9d",
+    "parents": [
+      "fe3b330b82314bdfe87ebd9bffe2a9dda0b53f34",
+      "d282ce576c5c1c97ac4a321dc3929176a3b2db38"
+    ],
+    "tree": "2128b336f4f1a6ae0af149686545038561843678",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-05-29T16:25:47-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-05-29T16:25:47-07:00"
+    },
+    "message": "Merge pull request #31 from square/jessdelacruzsantos/UpdateReadMe\n\nUpdate reade me",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "d282ce576c5c1c97ac4a321dc3929176a3b2db38",
+    "parents": ["fe3b330b82314bdfe87ebd9bffe2a9dda0b53f34"],
+    "tree": "2128b336f4f1a6ae0af149686545038561843678",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-05-29T15:29:44-07:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-05-29T16:15:18-07:00"
+    },
+    "message": "Update reade me",
+    "refs": ["origin/jessdelacruzsantos/UpdateReadMe"]
+  },
+  {
+    "sha1": "fe3b330b82314bdfe87ebd9bffe2a9dda0b53f34",
+    "parents": ["098ff58235e344b729e35bd772319c12331adc8f"],
+    "tree": "630863cb5eea55875e81a8215e916ae4db5ff76e",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-05-28T09:30:08-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-05-28T09:30:08-07:00"
+    },
+    "message": "Update .travis.yml",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.3.0.20200528"]
+  },
+  {
+    "sha1": "098ff58235e344b729e35bd772319c12331adc8f",
+    "parents": ["c8b5e94fe3313e9842752dfcf075d62ad35751e5"],
+    "tree": "152b983e695006cbe0f843ac05af2e294f9432eb",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-05-28T08:52:04-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-05-28T08:52:04-07:00"
+    },
+    "message": "Update CHANGELOG.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "c8b5e94fe3313e9842752dfcf075d62ad35751e5",
+    "parents": [
+      "7e4bb5f59789f3547f8bcd723725eeaaabb02d86",
+      "4974292f3840918667b882243235e05fdd99f821"
+    ],
+    "tree": "19f61c4db3a9d4c19d5fdff39022fa79e07844e6",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-05-28T08:50:07-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-05-28T08:50:07-07:00"
+    },
+    "message": "Merge pull request #30 from square/release/5.3.0.20200528\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "4974292f3840918667b882243235e05fdd99f821",
+    "parents": ["7e4bb5f59789f3547f8bcd723725eeaaabb02d86"],
+    "tree": "19f61c4db3a9d4c19d5fdff39022fa79e07844e6",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-05-28T15:40:53+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-05-28T15:40:53+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/5.3.0.20200528"]
+  },
+  {
+    "sha1": "7e4bb5f59789f3547f8bcd723725eeaaabb02d86",
+    "parents": ["2e4811d0f6038ea5c0f79c4331cbea6d6a933d2c"],
+    "tree": "a2dd9c4e5a9b9fbba18506c2695da90e18ea5a4a",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-04-28T15:36:55-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-28T15:36:55-07:00"
+    },
+    "message": "Update CHANGELOG.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "2e4811d0f6038ea5c0f79c4331cbea6d6a933d2c",
+    "parents": [
+      "b08ce190c9c44cff65e7107d378a5865f6479a43",
+      "45958bf198853642f58ac6919456f7b1faf085bb"
+    ],
+    "tree": "04f97f8c97756b077c8bb62bcaf597146878c8dc",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-04-25T11:10:33-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-25T11:10:33-07:00"
+    },
+    "message": "Merge pull request #29 from square/release/5.2.2.20200422\n\n5.2.2.20200422 release",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.2.2.20200422"]
+  },
+  {
+    "sha1": "45958bf198853642f58ac6919456f7b1faf085bb",
+    "parents": ["b08ce190c9c44cff65e7107d378a5865f6479a43"],
+    "tree": "04f97f8c97756b077c8bb62bcaf597146878c8dc",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-25T18:06:00+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-25T18:06:00+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/5.2.2.20200422"]
+  },
+  {
+    "sha1": "b08ce190c9c44cff65e7107d378a5865f6479a43",
+    "parents": ["8ed10b6ac054b129fa08e5adb7208ab1aa848af8"],
+    "tree": "a416d421eb6b0ceae9ec42e8a305850ebe129659",
+    "author": {
+      "user": {
+        "name": "Dean Papastrat",
+        "email": "dpapastrat@squareup.com"
+      },
+      "date": "2020-04-24T21:46:59-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-24T21:46:59-07:00"
+    },
+    "message": "Remove scopes parameter from ObtainTokenRequest",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "8ed10b6ac054b129fa08e5adb7208ab1aa848af8",
+    "parents": ["747db70f1b3b6b80cb9a40e983b915e006c46dd0"],
+    "tree": "955d62cd719c272a43ceac817d850d52d4459604",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-04-22T15:51:42-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-22T15:51:42-07:00"
+    },
+    "message": "Update CHANGELOG.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "747db70f1b3b6b80cb9a40e983b915e006c46dd0",
+    "parents": [
+      "2e920c3f3bbc0f610983eb6f992c5abde2b989dc",
+      "36dce6b3b60e9fb9786ae7c9763fd918730a3a90"
+    ],
+    "tree": "1196d4161f69af0d8b4fab2a8bfa4e9bcc937f2c",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-04-22T15:23:07-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-22T15:23:07-07:00"
+    },
+    "message": "Merge pull request #28 from square/release/5.2.1.20200422\n\n5.2.1.20200422 release",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.2.1.20200422"]
+  },
+  {
+    "sha1": "36dce6b3b60e9fb9786ae7c9763fd918730a3a90",
+    "parents": ["2e920c3f3bbc0f610983eb6f992c5abde2b989dc"],
+    "tree": "1196d4161f69af0d8b4fab2a8bfa4e9bcc937f2c",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-22T22:15:56+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-22T22:15:56+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/5.2.1.20200422"]
+  },
+  {
+    "sha1": "2e920c3f3bbc0f610983eb6f992c5abde2b989dc",
+    "parents": [
+      "33d15eefc4c135ffa5738c236898684f6c23a869",
+      "c65067fecb5ce301ea5a52e34686ae754f7afbb5"
+    ],
+    "tree": "952357f867716c41ecb008c583928544d1856e1c",
+    "author": {
+      "user": { "name": "Lindy Zeng", "email": "lindy@squareup.com" },
+      "date": "2020-04-22T09:13:55-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-04-22T09:13:55-07:00"
+    },
+    "message": "Merge pull request #27 from square/release/5.2.0.20200422\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.2.0.20200422"]
+  },
+  {
+    "sha1": "c65067fecb5ce301ea5a52e34686ae754f7afbb5",
+    "parents": ["33d15eefc4c135ffa5738c236898684f6c23a869"],
+    "tree": "952357f867716c41ecb008c583928544d1856e1c",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-22T16:08:53+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-04-22T16:08:53+00:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/5.2.0.20200422"]
+  },
+  {
+    "sha1": "33d15eefc4c135ffa5738c236898684f6c23a869",
+    "parents": [
+      "76d49ff5d2df4d2557159de04c42148675a92795",
+      "f1e90d180af0e3caad6e18246ab931a73478d6b0"
+    ],
+    "tree": "088d9c60e19af524e89e39cff7dcef1a27f378cf",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-03-25T09:11:44-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-03-25T09:11:44-07:00"
+    },
+    "message": "Merge pull request #25 from square/release/5.1.0.20200325\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.1.0.20200325"]
+  },
+  {
+    "sha1": "f1e90d180af0e3caad6e18246ab931a73478d6b0",
+    "parents": ["bc53dc885f06491ecd7326dcd19584d93fd2014c"],
+    "tree": "088d9c60e19af524e89e39cff7dcef1a27f378cf",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-03-25T08:52:53-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-03-25T08:52:53-07:00"
+    },
+    "message": "Update CHANGELOG.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "refs": ["origin/release/5.1.0.20200325"]
+  },
+  {
+    "sha1": "bc53dc885f06491ecd7326dcd19584d93fd2014c",
+    "parents": ["76d49ff5d2df4d2557159de04c42148675a92795"],
+    "tree": "58643e777aee81a2ce5bf5e1434c51aeadad6ae3",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-03-25T15:39:09+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-03-25T15:39:09+00:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "76d49ff5d2df4d2557159de04c42148675a92795",
+    "parents": [
+      "afb6201102d1ed0bc49fd52aa541bf4c547b482c",
+      "410807ffb27aa158d35549fe7b59d21dc2e2606c"
+    ],
+    "tree": "351b29fba4abd7169fffe0d61f23138e5483b872",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2020-02-26T09:20:01-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-02-26T09:20:01-08:00"
+    },
+    "message": "Merge pull request #24 from square/release/5.0.0.20200226\n\nrelease 5.0.0.20200226",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["5.0.0.20200226"]
+  },
+  {
+    "sha1": "410807ffb27aa158d35549fe7b59d21dc2e2606c",
+    "parents": ["afb6201102d1ed0bc49fd52aa541bf4c547b482c"],
+    "tree": "351b29fba4abd7169fffe0d61f23138e5483b872",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-02-26T15:48:32+00:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2020-02-26T09:15:56-08:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/5.0.0.20200226"]
+  },
+  {
+    "sha1": "afb6201102d1ed0bc49fd52aa541bf4c547b482c",
+    "parents": [
+      "27cf35820b096a7354d32f212885a9ee8550a992",
+      "ed61f79596f841e77384b55711708a862f347ac7"
+    ],
+    "tree": "8ece2a9d8eb7a2e775c1ebcf31c362130c58351f",
+    "author": {
+      "user": {
+        "name": "John Fellman",
+        "email": "gkchestertron@users.noreply.github.com"
+      },
+      "date": "2020-02-10T18:01:03-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-02-10T18:01:03-08:00"
+    },
+    "message": "Merge pull request #23 from square/jff-fix-catalog-doc\n\nadd item_variation_data to catalog doc",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "ed61f79596f841e77384b55711708a862f347ac7",
+    "parents": ["27cfbef0036db65000e0de10a467b2e0cfe537e9"],
+    "tree": "8ece2a9d8eb7a2e775c1ebcf31c362130c58351f",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-02-10T15:35:20-08:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2020-02-10T15:35:20-08:00"
+    },
+    "message": "Silence faulty test",
+    "refs": ["origin/jff-fix-catalog-doc"]
+  },
+  {
+    "sha1": "27cfbef0036db65000e0de10a467b2e0cfe537e9",
+    "parents": ["27cf35820b096a7354d32f212885a9ee8550a992"],
+    "tree": "90e49501866287053ff380d320d6aea60ab303d0",
+    "author": {
+      "user": { "name": "jff", "email": "jfellman@squareup.com" },
+      "date": "2020-02-10T10:51:08-08:00"
+    },
+    "committer": {
+      "user": { "name": "jff", "email": "jfellman@squareup.com" },
+      "date": "2020-02-10T10:51:08-08:00"
+    },
+    "message": "add item_variation_data to catalog doc"
+  },
+  {
+    "sha1": "27cf35820b096a7354d32f212885a9ee8550a992",
+    "parents": [
+      "72218da5467206a53cd2c2d33fc2d294badac1bc",
+      "fb50f116c19427f4d40741b32b2c1999144049c4"
+    ],
+    "tree": "029e8a80ff71b46d8a36b51c4a4bd8f5d36bdee4",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-01-22T13:12:57-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-01-22T13:12:57-08:00"
+    },
+    "message": "Merge pull request #22 from square/release/4.1.0.20200122\n\nRelease/4.1.0.20200122",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["4.1.0.20200122"]
+  },
+  {
+    "sha1": "fb50f116c19427f4d40741b32b2c1999144049c4",
+    "parents": ["af214e21edf7f83c6872a28f58950cf2dd97b4d7"],
+    "tree": "029e8a80ff71b46d8a36b51c4a4bd8f5d36bdee4",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2020-01-22T13:06:16-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2020-01-22T13:06:16-08:00"
+    },
+    "message": "Update CHANGELOG.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "refs": ["origin/release/4.1.0.20200122"]
+  },
+  {
+    "sha1": "af214e21edf7f83c6872a28f58950cf2dd97b4d7",
+    "parents": ["72218da5467206a53cd2c2d33fc2d294badac1bc"],
+    "tree": "0c29cc311b565cf2c722e0c44c5889f3200f3f2e",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-01-22T20:57:34+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2020-01-22T20:57:34+00:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "72218da5467206a53cd2c2d33fc2d294badac1bc",
+    "parents": [
+      "3af6cc18158f97cbc9469bf893e25c40cd7d3cf2",
+      "8c8507ca996f83ee5b75c7124ee74150c1773074"
+    ],
+    "tree": "b2a3e1a7b59b154e256659c08050fd5eba441f0e",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-12-17T11:52:07-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-12-17T11:52:07-08:00"
+    },
+    "message": "Merge pull request #18 from square/jessiedlcs/UpdateVersionToUseSemVer\n\nChange to use semantic versioning",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["v4.0.0.20191217.0"]
+  },
+  {
+    "sha1": "8c8507ca996f83ee5b75c7124ee74150c1773074",
+    "parents": ["3af6cc18158f97cbc9469bf893e25c40cd7d3cf2"],
+    "tree": "b2a3e1a7b59b154e256659c08050fd5eba441f0e",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T11:44:18-08:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T11:44:18-08:00"
+    },
+    "message": "Change to use semantic versioning",
+    "refs": ["origin/jessiedlcs/UpdateVersionToUseSemVer"]
+  },
+  {
+    "sha1": "3af6cc18158f97cbc9469bf893e25c40cd7d3cf2",
+    "parents": [
+      "462a24965123d1f8f0af76aab721f177b2a88e64",
+      "f1806585ca05d79c5bf9c07a1fe0c06ef4b7f682"
+    ],
+    "tree": "2befcee352e858f89369c1db523c29b124816d74",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-12-17T10:43:51-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-12-17T10:43:51-08:00"
+    },
+    "message": "Merge pull request #17 from square/jessiedlcs/FixChangelogTypo\n\nFixed small changelog typo",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "f1806585ca05d79c5bf9c07a1fe0c06ef4b7f682",
+    "parents": ["462a24965123d1f8f0af76aab721f177b2a88e64"],
+    "tree": "2befcee352e858f89369c1db523c29b124816d74",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T10:38:56-08:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T10:38:56-08:00"
+    },
+    "message": "Fixed small changelog typo",
+    "refs": ["origin/jessiedlcs/FixChangelogTypo"]
+  },
+  {
+    "sha1": "462a24965123d1f8f0af76aab721f177b2a88e64",
+    "parents": [
+      "5e68efd2c4a2210ef681e87710eba981a019dd08",
+      "721b09252310df86f77f6762e2568a585e0f9974"
+    ],
+    "tree": "030f9f8fe76c6cdf8769f6db8b62036998a5cba0",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-12-17T10:25:01-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-12-17T10:25:01-08:00"
+    },
+    "message": "Merge pull request #16 from square/release/3.3.0.20191217\n\nrelease",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["v3.3.0.20191217.0"]
+  },
+  {
+    "sha1": "721b09252310df86f77f6762e2568a585e0f9974",
+    "parents": ["9f60b10d4d623e22f91791a5aa75954323b4da46"],
+    "tree": "030f9f8fe76c6cdf8769f6db8b62036998a5cba0",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T10:22:10-08:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-12-17T10:22:10-08:00"
+    },
+    "message": "Update Changelog",
+    "refs": ["origin/release/3.3.0.20191217"]
+  },
+  {
+    "sha1": "9f60b10d4d623e22f91791a5aa75954323b4da46",
+    "parents": ["5e68efd2c4a2210ef681e87710eba981a019dd08"],
+    "tree": "3f5b4d38a88057a1d7c5c1d68490dbe9a0be738f",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2019-12-17T18:10:45+00:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2019-12-17T18:10:45+00:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "5e68efd2c4a2210ef681e87710eba981a019dd08",
+    "parents": [
+      "41ee4bab801163862482ad0a06ffabef71da1167",
+      "665060ddc361c601b139d9d5ca6fd8b999eb424c"
+    ],
+    "tree": "5161deef6ba998a7df1f10bc96fcbbfbeb112bfa",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-11-26T14:24:10-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-11-26T14:24:10-08:00"
+    },
+    "message": "Merge pull request #13 from square/jessiedlcs/AddClientMD\n\nRecreated client.md file",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "665060ddc361c601b139d9d5ca6fd8b999eb424c",
+    "parents": ["41ee4bab801163862482ad0a06ffabef71da1167"],
+    "tree": "5161deef6ba998a7df1f10bc96fcbbfbeb112bfa",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-11-26T13:42:09-08:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-11-26T13:42:09-08:00"
+    },
+    "message": "Recreated client.md file",
+    "refs": ["origin/jessiedlcs/AddClientMD"]
+  },
+  {
+    "sha1": "41ee4bab801163862482ad0a06ffabef71da1167",
+    "parents": [
+      "2de006129260de71a0fdc65104e9653567590880",
+      "2fe1884985afeffb5d42c8e9527a975a888e8710"
+    ],
+    "tree": "abc8ec555bc8ea9a97ad852bff20944ca161c46f",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-11-20T15:25:28-08:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-11-20T15:25:28-08:00"
+    },
+    "message": "Merge pull request #12 from square/release/3.20191120.0\n\nRelease 3.20191120.0",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "tags": ["v3.20191120.0"]
+  },
+  {
+    "sha1": "2fe1884985afeffb5d42c8e9527a975a888e8710",
+    "parents": ["2de006129260de71a0fdc65104e9653567590880"],
+    "tree": "abc8ec555bc8ea9a97ad852bff20944ca161c46f",
+    "author": {
+      "user": {
+        "name": "Jenkins Square SDK Update",
+        "email": "devplat-external-sdk-accounts@squareup.com"
+      },
+      "date": "2019-11-20T23:00:12+00:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-11-20T15:19:16-08:00"
+    },
+    "message": "release",
+    "refs": ["origin/release/3.20191120.0"]
+  },
+  {
+    "sha1": "2de006129260de71a0fdc65104e9653567590880",
+    "parents": [
+      "31d71694173c965949b65f8a1cffc826306f04af",
+      "158de5907c62e18ad5d063ed163eea2a1cfe3473"
+    ],
+    "tree": "d29f71a35bc1ed72e01de4c253e9633a14f5e541",
+    "author": {
+      "user": {
+        "name": "jessdelacruzsantos",
+        "email": "32309499+jessdelacruzsantos@users.noreply.github.com"
+      },
+      "date": "2019-10-29T15:54:38-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-10-29T15:54:38-07:00"
+    },
+    "message": "Merge pull request #11 from square/jessiedlcs/AddSlackAndEmailNotifications\n\nAdded notifications",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "158de5907c62e18ad5d063ed163eea2a1cfe3473",
+    "parents": ["31d71694173c965949b65f8a1cffc826306f04af"],
+    "tree": "d29f71a35bc1ed72e01de4c253e9633a14f5e541",
+    "author": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-10-29T13:54:48-07:00"
+    },
+    "committer": {
+      "user": {
+        "name": "Jessie De La Cruz Santos",
+        "email": "jessiedlcs@squareup.com"
+      },
+      "date": "2019-10-29T13:54:48-07:00"
+    },
+    "message": "Added notifications",
+    "refs": ["origin/jessiedlcs/AddSlackAndEmailNotifications"]
+  },
+  {
+    "sha1": "31d71694173c965949b65f8a1cffc826306f04af",
+    "parents": [
+      "3315680971caf0206e392099e3fb4dd736fdafe2",
+      "9da0c197b1be7d0e8cb7380d0fd3bd4c146a3c1b"
+    ],
+    "tree": "bc7e6d395e70c6d2daad0a1f2f0fed3e56ffa4a4",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-10-24T14:43:38-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-10-24T14:43:38-07:00"
+    },
+    "message": "Merge pull request #10 from square/ssung/update_package_name\n\nUpdate package name to squareup",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "9da0c197b1be7d0e8cb7380d0fd3bd4c146a3c1b",
+    "parents": ["3315680971caf0206e392099e3fb4dd736fdafe2"],
+    "tree": "bc7e6d395e70c6d2daad0a1f2f0fed3e56ffa4a4",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-24T14:42:54-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-24T14:42:54-07:00"
+    },
+    "message": "Update package name to squareup",
+    "refs": ["origin/ssung/update_package_name"]
+  },
+  {
+    "sha1": "3315680971caf0206e392099e3fb4dd736fdafe2",
+    "parents": [
+      "cc73c38070726837e3f6f8ac8ccf308c4381c926",
+      "3616e586fb8c21571eb59181a407b0e8420d12ff"
+    ],
+    "tree": "bf91a6e9b08ba70b561d6e30868e9b9bc6266f5d",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-10-23T17:02:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-10-23T17:02:57-07:00"
+    },
+    "message": "Merge pull request #9 from square/release_20191023\n\nRelease 20191023",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "3616e586fb8c21571eb59181a407b0e8420d12ff",
+    "parents": ["17a2253d4815fb525d6b8adee865edc8b7709712"],
+    "tree": "bf91a6e9b08ba70b561d6e30868e9b9bc6266f5d",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T17:02:00-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T17:02:00-07:00"
+    },
+    "message": "Update changelog",
+    "refs": ["origin/release_20191023"]
+  },
+  {
+    "sha1": "17a2253d4815fb525d6b8adee865edc8b7709712",
+    "parents": ["00c4d09f35e9076d9ad0630d594667db221fafac"],
+    "tree": "16f3a6b67a55e4982f1bcdebccd51ecdcfff18df",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T16:58:33-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T16:58:33-07:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "cc73c38070726837e3f6f8ac8ccf308c4381c926",
+    "parents": [
+      "af692b4ddcfe2e030ac981ea5a8041fed5512171",
+      "00c4d09f35e9076d9ad0630d594667db221fafac"
+    ],
+    "tree": "75fe153b98d9d81d45bb6d637ee170f8d4e9ca92",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-10-23T13:03:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-10-23T13:03:57-07:00"
+    },
+    "message": "Merge pull request #8 from square/release_20191023\n\n2019/10/23 Release",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "00c4d09f35e9076d9ad0630d594667db221fafac",
+    "parents": ["af692b4ddcfe2e030ac981ea5a8041fed5512171"],
+    "tree": "75fe153b98d9d81d45bb6d637ee170f8d4e9ca92",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T12:18:15-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T12:18:15-07:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "4e1e522851e7f949b6fdcea214f523556ae5e616",
+    "parents": ["27cd8a72d2af5a9755c7643adbe9d34d27bc5a5b"],
+    "tree": "75fe153b98d9d81d45bb6d637ee170f8d4e9ca92",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T12:17:59-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-10-23T12:17:59-07:00"
+    },
+    "message": "release",
+    "refs": ["origin/release_20190925"]
+  },
+  {
+    "sha1": "af692b4ddcfe2e030ac981ea5a8041fed5512171",
+    "parents": [
+      "d54c2acae1b582670cae1bb2a83911b59f149b90",
+      "b76ed53cad53b46c0e80c540c73c52840749979d"
+    ],
+    "tree": "397dca837f1eb13f9dfe5aea385b49154598a68f",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-09-30T10:44:47-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-09-30T10:44:47-07:00"
+    },
+    "message": "Merge pull request #7 from square/ssung/clarify_v1_docs\n\nClarify V1 docs",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "b76ed53cad53b46c0e80c540c73c52840749979d",
+    "parents": ["d54c2acae1b582670cae1bb2a83911b59f149b90"],
+    "tree": "397dca837f1eb13f9dfe5aea385b49154598a68f",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-30T10:42:37-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-30T10:42:37-07:00"
+    },
+    "message": "Clarify V1 docs",
+    "refs": ["origin/ssung/clarify_v1_docs"]
+  },
+  {
+    "sha1": "d54c2acae1b582670cae1bb2a83911b59f149b90",
+    "parents": [
+      "549437aa3fadea3c43da780838a93bab79529865",
+      "27cd8a72d2af5a9755c7643adbe9d34d27bc5a5b"
+    ],
+    "tree": "670d982f0ad7bb7bcd5e3818775223f5490713a8",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-09-25T11:13:17-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-09-25T11:13:17-07:00"
+    },
+    "message": "Merge pull request #6 from square/release_20190925\n\nUpdate setup.py",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "27cd8a72d2af5a9755c7643adbe9d34d27bc5a5b",
+    "parents": ["c179e373718646d7d53a2918cfb2b0d2535fbd43"],
+    "tree": "670d982f0ad7bb7bcd5e3818775223f5490713a8",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T11:12:54-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T11:12:54-07:00"
+    },
+    "message": "Update setup.py"
+  },
+  {
+    "sha1": "549437aa3fadea3c43da780838a93bab79529865",
+    "parents": [
+      "452550071418f41cd004a31fe0780747f2a038eb",
+      "c179e373718646d7d53a2918cfb2b0d2535fbd43"
+    ],
+    "tree": "9d2839df22249a49e62e65bc7af69a292f018e15",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-09-25T11:02:12-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-09-25T11:02:12-07:00"
+    },
+    "message": "Merge pull request #5 from square/release_20190925\n\nrelease 3.20190925.0",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "c179e373718646d7d53a2918cfb2b0d2535fbd43",
+    "parents": ["c685794e4437eeea218fd8e9020a055a454aaa96"],
+    "tree": "9d2839df22249a49e62e65bc7af69a292f018e15",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:52:36-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:52:36-07:00"
+    },
+    "message": "Add CHANGELOG"
+  },
+  {
+    "sha1": "c685794e4437eeea218fd8e9020a055a454aaa96",
+    "parents": ["36073423f0cba9b4078854a5fbcb250e2d033dd6"],
+    "tree": "28bd666febd44214b164b5c1c29b5a4c9b4a5544",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:45:05-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:45:05-07:00"
+    },
+    "message": "Add merchants to README"
+  },
+  {
+    "sha1": "36073423f0cba9b4078854a5fbcb250e2d033dd6",
+    "parents": ["452550071418f41cd004a31fe0780747f2a038eb"],
+    "tree": "6be05c728ec41bc677b6cdef0cc1a52e9a1a6806",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:30:39-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-25T09:30:39-07:00"
+    },
+    "message": "release"
+  },
+  {
+    "sha1": "452550071418f41cd004a31fe0780747f2a038eb",
+    "parents": ["b4da1fd018f2f27ee84f346186d0c7a70314a1c3"],
+    "tree": "5fe95da4fb6805397e1c85835ff453ec1a067fd4",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-09-04T09:47:35-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-09-04T09:47:35-07:00"
+    },
+    "message": "Update README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "b4da1fd018f2f27ee84f346186d0c7a70314a1c3",
+    "parents": ["c87f7fd0d5f5987ebbaa47bfe35caf0c3ef9cdee"],
+    "tree": "badc1ba300b88f331463721b94b0df07e33bb30b",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-03T11:15:51-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-03T11:15:51-07:00"
+    },
+    "message": "Fix example"
+  },
+  {
+    "sha1": "c87f7fd0d5f5987ebbaa47bfe35caf0c3ef9cdee",
+    "parents": [
+      "1b317b03dcb924d0ff5491ab2aff90a25837da63",
+      "8eee4d0eb00ee84bc361340f6eb9ba54638491cd"
+    ],
+    "tree": "44a088bfb8dd84cd9e31c415033ae165d76aae03",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-09-03T11:05:01-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-09-03T11:05:01-07:00"
+    },
+    "message": "Merge pull request #3 from square/ssung/fix_doc_examples\n\nFix doc examples",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "8eee4d0eb00ee84bc361340f6eb9ba54638491cd",
+    "parents": ["1b317b03dcb924d0ff5491ab2aff90a25837da63"],
+    "tree": "44a088bfb8dd84cd9e31c415033ae165d76aae03",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-03T11:04:32-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-09-03T11:04:32-07:00"
+    },
+    "message": "Fix doc examples",
+    "refs": ["origin/ssung/fix_doc_examples"]
+  },
+  {
+    "sha1": "1b317b03dcb924d0ff5491ab2aff90a25837da63",
+    "parents": [
+      "e8ca2beb78c86940bded9f46788549f6e56ee090",
+      "32145170da6524fe5c047374e0ff672c8d382ac0"
+    ],
+    "tree": "cf8c008b81c089f6af832c8b77828430bb634287",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-08-15T14:14:05-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-08-15T14:14:05-07:00"
+    },
+    "message": "Merge pull request #2 from square/shaofu88-patch-1\n\nUpdate README",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "32145170da6524fe5c047374e0ff672c8d382ac0",
+    "parents": ["e8ca2beb78c86940bded9f46788549f6e56ee090"],
+    "tree": "cf8c008b81c089f6af832c8b77828430bb634287",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-08-15T14:06:11-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-08-15T14:06:11-07:00"
+    },
+    "message": "Update README",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" },
+    "refs": ["origin/shaofu88-patch-1"]
+  },
+  {
+    "sha1": "e8ca2beb78c86940bded9f46788549f6e56ee090",
+    "parents": [
+      "6f3c155d72a6a7dce8b704c38da6724f10b63c8c",
+      "bc8f8dcf8c439b22bd54745ca4111f185af0b37d"
+    ],
+    "tree": "5e874d8d9abd45e80bfc02c4db6651d1930177ba",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-08-15T09:47:21-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-08-15T09:47:21-07:00"
+    },
+    "message": "Merge pull request #1 from square/ssung/update_travis\n\nUpdate travis",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "bc8f8dcf8c439b22bd54745ca4111f185af0b37d",
+    "parents": ["6f3c155d72a6a7dce8b704c38da6724f10b63c8c"],
+    "tree": "5e874d8d9abd45e80bfc02c4db6651d1930177ba",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-15T09:38:18-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-15T09:42:21-07:00"
+    },
+    "message": "Update travis",
+    "refs": ["origin/ssung/update_travis"]
+  },
+  {
+    "sha1": "6f3c155d72a6a7dce8b704c38da6724f10b63c8c",
+    "parents": ["24e16d490421632ca7f8200d0215f13eaae0b06d"],
+    "tree": "4b842dfc9a311d648aa050896fd638189995e948",
+    "author": {
+      "user": { "name": "sseaman", "email": "sloan@pobox.com" },
+      "date": "2019-08-15T08:13:14-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-08-15T08:13:14-07:00"
+    },
+    "message": "Update README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "24e16d490421632ca7f8200d0215f13eaae0b06d",
+    "parents": ["d5b0553fac37421a3d53ffddeed51a493b5e8a31"],
+    "tree": "1d611bff8cfcaef56b1f6c4c57658ca8cdf80397",
+    "author": {
+      "user": {
+        "name": "Shao-Fu Sung",
+        "email": "20245766+shaofu88@users.noreply.github.com"
+      },
+      "date": "2019-08-15T07:58:23-07:00"
+    },
+    "committer": {
+      "user": { "name": "GitHub", "email": "noreply@github.com" },
+      "date": "2019-08-15T07:58:23-07:00"
+    },
+    "message": "Update README.md",
+    "GPG": { "type": "E", "key": "4AEE18F83AFDEB23" }
+  },
+  {
+    "sha1": "d5b0553fac37421a3d53ffddeed51a493b5e8a31",
+    "parents": ["bad639719825c21d16ef51c6074e586dbd1d3e2a"],
+    "tree": "aa1c620abd86395dce87d293814fa1e2b70a1357",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-15T07:37:54-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-15T07:37:54-07:00"
+    },
+    "message": "Add travis file"
+  },
+  {
+    "sha1": "bad639719825c21d16ef51c6074e586dbd1d3e2a",
+    "parents": [],
+    "tree": "df1cc616bb63fd1ee8b5445afc5a5ae5f0f8acf8",
+    "author": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-14T17:10:57-07:00"
+    },
+    "committer": {
+      "user": { "name": "Shao-Fu Sung", "email": "ssung@squareup.com" },
+      "date": "2019-08-14T17:10:57-07:00"
+    },
+    "message": "3.20190815.0 Release"
+  }
+]

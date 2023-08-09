@@ -11,5 +11,11 @@ namespace MetricsTogglesDebt.Service.Interfaces
         int UpdateLinesOfCode(LinesOfCode model);
 
         int SaveClassesAndMethods(ClassesAndMethods model);
+
+        int SaveCommit(Commit model);
+
+        int SaveTags(Tags model);
+
+        int SaveRemotes(Remotes model);
     }
 }
