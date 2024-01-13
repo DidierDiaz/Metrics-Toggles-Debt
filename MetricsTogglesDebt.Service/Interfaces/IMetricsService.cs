@@ -17,5 +17,15 @@ namespace MetricsTogglesDebt.Service.Interfaces
         int SaveTags(Tags model);
 
         int SaveRemotes(Remotes model);
+
+        double GetDepthOfInheritanceMetrics();
+
+        double GetLinesOfCodeMetrics();
+
+        double GetClassCouplingMetrics();
+
+        List<ClassesAndMethods> GetClassesAndMethods();
+
+        List<LinesOfCode> GetLinesOfCode();
     }
 }

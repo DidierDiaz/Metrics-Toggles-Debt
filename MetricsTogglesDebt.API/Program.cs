@@ -15,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MetricsTogglesDebtDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IMetricsService, MetricsService>();
+builder.Services.AddCors(options => options.AddPolicy("MetricsCORS", builder => builder.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin()));
 
 var app = builder.Build();
 
@@ -28,6 +29,7 @@ if (app.Environment.IsDevelopment())
 AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 AppContext.SetSwitch("Npgsql.DisableDateTimeInfinityConversions", true);
 
+app.UseCors("MetricsCORS");
 app.UseAuthorization();
 
 app.MapControllers();

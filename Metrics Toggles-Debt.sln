@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsTogglesDebt.API", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsTogglesDebt.Data", "MetricsTogglesDebt.Data\MetricsTogglesDebt.Data.csproj", "{96C8DE6F-8326-497B-B5E0-4A970A2C1001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricsTogglesDebt.Service", "MetricsTogglesDebt.Service\MetricsTogglesDebt.Service.csproj", "{A35DA8F3-303B-4B3F-B6B8-815F785A36AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsTogglesDebt.Service", "MetricsTogglesDebt.Service\MetricsTogglesDebt.Service.csproj", "{A35DA8F3-303B-4B3F-B6B8-815F785A36AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
