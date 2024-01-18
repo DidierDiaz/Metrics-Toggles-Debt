@@ -1,4 +1,4 @@
-![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d)
+![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d) 
 
 
 Proyecto de Tesis de Maestria en Ingenieria de Sistema. 
