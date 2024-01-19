@@ -63,4 +63,5 @@ cd square-python-sdk
 * Table Tags
 * __EFMigrationsHistory
 ### Terminal
-* [Terminal]
+* []
+* []
