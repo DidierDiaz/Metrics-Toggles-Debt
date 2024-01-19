@@ -62,6 +62,7 @@ cd square-python-sdk
 * Table Remotes
 * Table Tags
 * __EFMigrationsHistory
-### Terminal
-* []
-* []
+### Formula & Metrica. 
+
+- Metrica = Peso 1*Normalización Depth of Inheritance + Peso 2* Normalización Class Coupling + Peso 3* Normalización Lines of Source code.
+- Formula = 0,29*0,12+ 0,24* 0,13 + 0,48*0,18.
