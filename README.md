@@ -1,6 +1,6 @@
 ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/2067df36-8bd8-4820-a9e9-bd2ebca4c99d)
 
-# Proyecto de Tesis de Maestria en Ingenieria de Sistema.
+# Proyecto de Tesis de Maestria en Ingenieria de Sistema. NET SDK (Backend)
 
 # 📊 Titulo: Una metrica para medir deuda tecnica basada en el analisis de las más usadas. Caso de estudio del repositorio Square
 
