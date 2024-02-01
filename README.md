@@ -12,6 +12,8 @@ Proponer una metrica de deuda tecnica basada en el analisis de las metricas más
 - Identificar las principales metricas en la literatura usadas para medir deuda tecnica.
 - Proponer una métrica para evaluar la deuda tecnica basada en el analisis de las principales metricas identificadas en la literatura.
 - Validar la métrica propuesta aplicada al repositorio Square como caso de estudio.
+# 📊 Vista Metrics Toggles-Debt
+![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/da41a66c-dc49-4fe6-80e9-81d386cc287f)
 
 # 📊 Metrics Toggles-Debt
 Proyecto escrito en .NET Core 6
