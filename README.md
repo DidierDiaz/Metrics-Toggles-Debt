@@ -15,6 +15,9 @@ Proponer una metrica de deuda tecnica basada en el analisis de las metricas más
 # 📊 Vista Metrics Toggles-Debt
 ![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/da41a66c-dc49-4fe6-80e9-81d386cc287f)
 
+# 📊 Vista Reports Toggles-Debt
+![image](https://github.com/DidierDiaz/Metrics-Toggles-Debt/assets/22352012/534aac96-d7cd-462e-a3a5-303434a89e61)
+
 # 📊 Metrics Toggles-Debt
 Proyecto escrito en .NET Core 6
 * [Requirements](#requirements)
