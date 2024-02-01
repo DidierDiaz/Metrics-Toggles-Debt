@@ -2,7 +2,8 @@
 
 # Proyecto de Tesis de Maestria en Ingenieria de Sistema. NET SDK (Backend)
 
-# 📊 Titulo: Una metrica para medir deuda tecnica basada en el analisis de las más usadas. Caso de estudio del repositorio Square
+# 📊 Titulo: 
+Una metrica para medir deuda tecnica basada en el analisis de las más usadas. Caso de estudio del repositorio Square
 
 # 📊 Obejtivo General. 
 Proponer una metrica de deuda tecnica basada en el analisis de las metricas más usadas en la literatura, aplicada al repositorio Square como caso de estudio.
@@ -16,6 +17,7 @@ Proponer una metrica de deuda tecnica basada en el analisis de las metricas más
 Proyecto escrito en .NET Core 6
 * [Requirements](#requirements)
 * [Installation](#installation)
+* [SDK Reference](#sdk-reference)
 
 ## Requisitos para ejecutar el API
  - 🐘 [PostgreSQL](https://www.postgresql.org/download/)
@@ -42,4 +44,4 @@ For more information, see [Set Up Your Square SDK for a Python Project](https://
 ### Formula & Metrica. 
 
 - Metrica = Peso 1*Normalización Depth of Inheritance + Peso 2* Normalización Class Coupling + Peso 3* Normalización Lines of Source code.
-- Formula = 0,29*0,12+ 0,24* 0,13 + 0,48*0,18.
+- Formula = 0,29*0,12 + 0,24*0,13 + 0,48*0,18.
